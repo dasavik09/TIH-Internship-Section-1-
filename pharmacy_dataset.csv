@@ -1,0 +1,1001 @@
+Patient_ID,Date,Medicine_Name,Quantity,Price_per_unit,Doctor_Name,Amount
+P0001,24-01-2024,Eye Drops (Antibiotic),4,1124.98,Dr. T. Sen,4499.92
+P0002,20-06-2024,Pantoprazole 40mg,5,844.02,Dr. S. Banerjee,4220.1
+P0003,30-03-2024,Ibuprofen 400mg,3,1200.33,Dr. A. Mukherjee,3600.99
+P0004,13-01-2025,Clopidogrel 75mg,5,1244.47,Dr. S. Banerjee,6222.35
+P0005,07-03-2025,Prednisone 10mg,5,1555.87,Dr. M. Chakraborty,7779.35
+P0006,25-01-2024,Salbutamol Inhaler,2,773.15,Dr. P. Roy,1546.3
+P0007,07-07-2025,Omeprazole 20mg,3,1818.84,Dr. B. Chatterjee,5456.52
+P0008,25-07-2024,Metformin 500mg,3,608.76,Dr. B. Chatterjee,1826.28
+P0009,27-05-2024,Clopidogrel 75mg,3,1185.28,Dr. B. Chatterjee,3555.84
+P0010,08-04-2025,Loperamide 2mg,5,869.08,Dr. L. Saha,4345.4
+P0011,26-07-2025,Aspirin 75mg,4,1145.89,Dr. L. Saha,4583.56
+P0012,11-07-2025,Clopidogrel 75mg,3,139.26,Dr. P. Roy,417.78
+P0013,13-01-2024,Fluconazole 150mg,5,1921.02,Dr. K. Dutta,9605.1
+P0014,23-05-2025,Cetirizine 10mg,2,216.48,Dr. N. Ghosh,432.96
+P0015,07-07-2024,Nitroglycerin Spray,4,1530.22,Dr. T. Sen,6120.88
+P0016,23-06-2024,Warfarin 5mg,2,1258.52,Dr. K. Dutta,2517.04
+P0017,01-11-2024,Amoxicillin 500mg,4,544,Dr. L. Saha,2176
+P0018,09-03-2025,Ibuprofen 400mg,5,180.75,Dr. B. Chatterjee,903.75
+P0019,02-03-2024,Cetirizine 10mg,1,494.93,Dr. R. Das,494.93
+P0020,24-06-2025,Ranitidine 150mg,4,1112.94,Dr. N. Ghosh,4451.76
+P0021,24-03-2024,Omeprazole 20mg,2,329.93,Dr. A. Mukherjee,659.86
+P0022,28-08-2025,Budesonide Nasal Spray,5,828.86,Dr. K. Dutta,4144.3
+P0023,02-10-2024,Heparin Injection,4,1384.95,Dr. S. Banerjee,5539.8
+P0024,28-05-2025,Ibuprofen 400mg,1,950.43,Dr. M. Chakraborty,950.43
+P0025,16-06-2024,Insulin (long),1,84.63,Dr. T. Sen,84.63
+P0026,16-09-2024,Levocetirizine 5mg,3,590.45,Dr. S. Banerjee,1771.35
+P0027,05-02-2025,Levothyroxine 50mcg,3,579.78,Dr. S. Banerjee,1739.34
+P0028,26-04-2024,Ear Drops (Antibiotic),2,1722.02,Dr. R. Das,3444.04
+P0029,11-05-2024,Co-trimoxazole 480mg,4,160.94,Dr. N. Ghosh,643.76
+P0030,27-05-2025,Fluconazole 150mg,4,482.18,Dr. M. Chakraborty,1928.72
+P0031,05-04-2025,Hydrochlorothiazide 25mg,3,543.82,Dr. N. Ghosh,1631.46
+P0032,17-04-2025,Omeprazole 20mg,4,1586.67,Dr. K. Dutta,6346.68
+P0033,23-06-2025,Captopril 25mg,4,1187.78,Dr. P. Roy,4751.12
+P0034,25-05-2025,Nitroglycerin Spray,1,1611.73,Dr. B. Chatterjee,1611.73
+P0035,16-11-2024,Prednisone 10mg,3,411.68,Dr. K. Dutta,1235.04
+P0036,08-04-2024,Paracetamol 500mg,5,247.26,Dr. N. Ghosh,1236.3
+P0037,12-07-2024,Losartan 50mg,3,465.12,Dr. K. Dutta,1395.36
+P0038,11-11-2024,Co-trimoxazole 480mg,5,315,Dr. S. Banerjee,1575
+P0039,25-03-2024,Warfarin 5mg,1,545.95,Dr. K. Dutta,545.95
+P0040,13-06-2025,Calcium Carbonate 500mg,2,301.63,Dr. K. Dutta,603.26
+P0041,30-06-2025,Prednisone 10mg,4,138.08,Dr. N. Ghosh,552.32
+P0042,19-01-2024,Amlodipine 5mg,1,1589.4,Dr. S. Banerjee,1589.4
+P0043,29-04-2024,Ranitidine 150mg,4,1198.19,Dr. M. Chakraborty,4792.76
+P0044,02-06-2025,Calcium Carbonate 500mg,2,1652,Dr. A. Mukherjee,3304
+P0045,04-06-2025,Loperamide 2mg,2,1843.96,Dr. S. Banerjee,3687.92
+P0046,04-06-2024,Cetirizine 10mg,1,889.52,Dr. A. Mukherjee,889.52
+P0047,10-10-2024,Naproxen 250mg,2,948.02,Dr. N. Ghosh,1896.04
+P0048,25-07-2025,Loperamide 2mg,5,622.1,Dr. S. Banerjee,3110.5
+P0049,14-03-2025,Multivitamin Tablet,2,816.97,Dr. R. Das,1633.94
+P0050,19-06-2024,Multivitamin Tablet,4,559.05,Dr. P. Roy,2236.2
+P0051,27-05-2025,Heparin Injection,4,1089.16,Dr. B. Chatterjee,4356.64
+P0052,10-11-2024,Insulin (short),4,886.76,Dr. R. Das,3547.04
+P0053,30-01-2025,Amoxicillin 500mg,4,1204.11,Dr. B. Chatterjee,4816.44
+P0054,18-03-2024,Spironolactone 25mg,5,1781.06,Dr. R. Das,8905.3
+P0055,20-01-2024,Probiotic Sachet,3,1474.38,Dr. N. Ghosh,4423.14
+P0056,19-08-2024,Fluconazole 150mg,1,1215.35,Dr. B. Chatterjee,1215.35
+P0057,04-01-2025,Pantoprazole 40mg,4,71.21,Dr. T. Sen,284.84
+P0058,20-04-2024,Naproxen 250mg,2,473.27,Dr. K. Dutta,946.54
+P0059,25-06-2025,Cetirizine 10mg,4,1355.11,Dr. P. Roy,5420.44
+P0060,31-12-2024,Insulin (long),2,1723.82,Dr. T. Sen,3447.64
+P0061,05-08-2024,Clarithromycin 250mg,2,1182.5,Dr. R. Das,2365
+P0062,11-04-2024,Eye Drops (Antibiotic),4,61.08,Dr. R. Das,244.32
+P0063,10-07-2025,Saline IV 500ml,5,1534.23,Dr. T. Sen,7671.15
+P0064,10-04-2025,Diclofenac 50mg,2,1646.41,Dr. T. Sen,3292.82
+P0065,04-03-2025,Erythromycin 250mg,2,1160.97,Dr. A. Mukherjee,2321.94
+P0066,26-06-2024,Levocetirizine 5mg,4,1530.96,Dr. L. Saha,6123.84
+P0067,28-08-2024,Levothyroxine 50mcg,2,366.88,Dr. P. Roy,733.76
+P0068,11-04-2024,Cefixime 200mg,2,1047.55,Dr. K. Dutta,2095.1
+P0069,21-12-2024,Amoxicillin 500mg,4,895.61,Dr. L. Saha,3582.44
+P0070,23-08-2025,Topical Antifungal Cream,4,570.75,Dr. T. Sen,2283
+P0071,17-06-2025,Omeprazole 20mg,1,1993.95,Dr. T. Sen,1993.95
+P0072,06-02-2025,Clarithromycin 250mg,5,883.05,Dr. A. Mukherjee,4415.25
+P0073,25-02-2025,Cetirizine 10mg,5,1632.2,Dr. P. Roy,8161
+P0074,16-06-2024,Omeprazole 20mg,2,1938.73,Dr. P. Roy,3877.46
+P0075,11-09-2024,Loperamide 2mg,5,950.62,Dr. M. Chakraborty,4753.1
+P0076,13-01-2024,Naproxen 250mg,2,828.53,Dr. S. Banerjee,1657.06
+P0077,30-04-2025,Prednisone 10mg,1,655.7,Dr. L. Saha,655.7
+P0078,22-04-2025,Probiotic Sachet,4,227.11,Dr. S. Banerjee,908.44
+P0079,06-01-2024,Eye Drops (Antibiotic),4,338.43,Dr. B. Chatterjee,1353.72
+P0080,20-07-2025,Diclofenac 50mg,4,835.06,Dr. R. Das,3340.24
+P0081,06-02-2025,Losartan 50mg,5,1001.03,Dr. N. Ghosh,5005.15
+P0082,08-01-2025,Diclofenac 50mg,1,1331.92,Dr. N. Ghosh,1331.92
+P0083,06-01-2024,Multivitamin Tablet,5,812.9,Dr. P. Roy,4064.5
+P0084,05-06-2024,Ranitidine 150mg,5,1525.79,Dr. K. Dutta,7628.95
+P0085,15-05-2025,Topical Antifungal Cream,1,92.66,Dr. S. Banerjee,92.66
+P0086,08-07-2024,Prednisone 10mg,1,194.36,Dr. M. Chakraborty,194.36
+P0087,24-08-2025,Co-trimoxazole 480mg,1,519.75,Dr. K. Dutta,519.75
+P0088,03-02-2025,Aspirin 75mg,1,249.52,Dr. B. Chatterjee,249.52
+P0089,20-09-2024,Ear Drops (Antibiotic),4,1549.64,Dr. N. Ghosh,6198.56
+P0090,22-08-2024,Cefixime 200mg,3,1732.52,Dr. L. Saha,5197.56
+P0091,04-08-2024,Heparin Injection,3,1653.36,Dr. T. Sen,4960.08
+P0092,05-06-2024,Eye Drops (Antibiotic),1,22.28,Dr. L. Saha,22.28
+P0093,17-10-2024,Losartan 50mg,3,1741.35,Dr. T. Sen,5224.05
+P0094,25-02-2025,Fluconazole 150mg,3,934.71,Dr. L. Saha,2804.13
+P0095,27-05-2025,Spironolactone 25mg,1,127.32,Dr. S. Banerjee,127.32
+P0096,04-09-2024,Salbutamol Inhaler,3,1046.51,Dr. N. Ghosh,3139.53
+P0097,04-03-2024,Losartan 50mg,5,1252.82,Dr. N. Ghosh,6264.1
+P0098,14-11-2024,Probiotic Sachet,2,1007.02,Dr. K. Dutta,2014.04
+P0099,15-02-2025,Naproxen 250mg,2,895.24,Dr. L. Saha,1790.48
+P0100,08-06-2025,Prednisone 10mg,1,122.19,Dr. R. Das,122.19
+P0101,20-08-2024,Eye Drops (Antibiotic),4,548.77,Dr. M. Chakraborty,2195.08
+P0102,06-02-2025,Co-trimoxazole 480mg,1,279.41,Dr. L. Saha,279.41
+P0103,13-01-2025,Insulin (long),4,590.3,Dr. L. Saha,2361.2
+P0104,04-07-2024,Omeprazole 20mg,2,1764.08,Dr. S. Banerjee,3528.16
+P0105,08-03-2024,Aspirin 75mg,1,979.73,Dr. R. Das,979.73
+P0106,09-02-2024,Vitamin D3 60k IU,5,77.16,Dr. N. Ghosh,385.8
+P0107,06-09-2025,Azithromycin 250mg,3,1267.44,Dr. S. Banerjee,3802.32
+P0108,02-02-2025,Omeprazole 20mg,4,1602.64,Dr. P. Roy,6410.56
+P0109,19-06-2025,Amoxicillin 500mg,3,1425.37,Dr. M. Chakraborty,4276.11
+P0110,11-06-2024,Vitamin D3 60k IU,3,635.29,Dr. S. Banerjee,1905.87
+P0111,18-03-2025,Fexofenadine 120mg,1,47.08,Dr. R. Das,47.08
+P0112,09-07-2025,Prednisone 10mg,3,827.82,Dr. N. Ghosh,2483.46
+P0113,04-07-2024,Cefixime 200mg,5,464.91,Dr. R. Das,2324.55
+P0114,03-04-2024,Ranitidine 150mg,3,1685.98,Dr. B. Chatterjee,5057.94
+P0115,21-04-2025,Erythromycin 250mg,1,244.65,Dr. T. Sen,244.65
+P0116,13-07-2025,Levothyroxine 50mcg,5,1895.18,Dr. T. Sen,9475.9
+P0117,15-05-2025,Vitamin D3 60k IU,2,1302.47,Dr. L. Saha,2604.94
+P0118,14-05-2025,Ranitidine 150mg,3,324.86,Dr. R. Das,974.58
+P0119,08-01-2025,Ear Drops (Antibiotic),1,1866.65,Dr. L. Saha,1866.65
+P0120,14-02-2025,Mupirocin Ointment,2,597.89,Dr. T. Sen,1195.78
+P0121,27-02-2025,Fexofenadine 120mg,2,1416.72,Dr. T. Sen,2833.44
+P0122,24-03-2025,Ear Drops (Antibiotic),4,842.67,Dr. R. Das,3370.68
+P0123,11-02-2025,Probiotic Sachet,5,975.35,Dr. K. Dutta,4876.75
+P0124,12-09-2025,Amlodipine 5mg,3,955,Dr. B. Chatterjee,2865
+P0125,10-06-2024,Insulin (short),1,924.44,Dr. R. Das,924.44
+P0126,17-09-2024,Metformin 500mg,4,306.39,Dr. B. Chatterjee,1225.56
+P0127,29-08-2024,Salbutamol Inhaler,5,397.41,Dr. R. Das,1987.05
+P0128,22-01-2024,Clopidogrel 75mg,4,1206.77,Dr. K. Dutta,4827.08
+P0129,16-03-2025,Insulin (long),5,1497.66,Dr. M. Chakraborty,7488.3
+P0130,21-12-2024,Fluconazole 150mg,5,290.29,Dr. R. Das,1451.45
+P0131,28-04-2024,Insulin (short),3,158.22,Dr. R. Das,474.66
+P0132,27-03-2025,Clopidogrel 75mg,5,1549.9,Dr. N. Ghosh,7749.5
+P0133,18-05-2024,Nitroglycerin Spray,4,1711.74,Dr. K. Dutta,6846.96
+P0134,28-11-2024,Warfarin 5mg,5,692.95,Dr. L. Saha,3464.75
+P0135,03-05-2025,Nitroglycerin Spray,3,1579.68,Dr. A. Mukherjee,4739.04
+P0136,17-07-2025,Fexofenadine 120mg,3,549,Dr. N. Ghosh,1647
+P0137,21-02-2025,Diclofenac 50mg,4,25.08,Dr. A. Mukherjee,100.32
+P0138,11-11-2024,Omeprazole 20mg,2,1457.58,Dr. K. Dutta,2915.16
+P0139,09-06-2025,Metformin 500mg,2,1678.2,Dr. R. Das,3356.4
+P0140,06-06-2025,Budesonide Nasal Spray,5,1168.25,Dr. P. Roy,5841.25
+P0141,29-06-2025,Mupirocin Ointment,1,1326.68,Dr. T. Sen,1326.68
+P0142,22-04-2024,Cetirizine 10mg,5,1733.22,Dr. B. Chatterjee,8666.1
+P0143,01-03-2024,Azithromycin 250mg,4,904.16,Dr. B. Chatterjee,3616.64
+P0144,20-03-2024,Pantoprazole 40mg,4,979,Dr. K. Dutta,3916
+P0145,09-06-2024,Amlodipine 5mg,4,678.23,Dr. T. Sen,2712.92
+P0146,17-05-2025,Eye Drops (Antibiotic),4,1530.49,Dr. K. Dutta,6121.96
+P0147,19-04-2025,Losartan 50mg,4,766.88,Dr. T. Sen,3067.52
+P0148,23-04-2024,Aspirin 75mg,3,1867.05,Dr. K. Dutta,5601.15
+P0149,26-02-2025,Warfarin 5mg,2,1741.81,Dr. K. Dutta,3483.62
+P0150,27-07-2024,Heparin Injection,4,1961.93,Dr. R. Das,7847.72
+P0151,25-02-2024,Cefixime 200mg,1,492.83,Dr. S. Banerjee,492.83
+P0152,08-08-2024,Naproxen 250mg,1,778.28,Dr. L. Saha,778.28
+P0153,07-04-2025,Naproxen 250mg,1,1714.91,Dr. A. Mukherjee,1714.91
+P0154,10-07-2024,Heparin Injection,1,833.33,Dr. P. Roy,833.33
+P0155,05-05-2025,Probiotic Sachet,3,649.99,Dr. M. Chakraborty,1949.97
+P0156,25-07-2024,Lorazepam 1mg,1,956.49,Dr. A. Mukherjee,956.49
+P0157,11-06-2024,Insulin (short),4,1828.59,Dr. M. Chakraborty,7314.36
+P0158,01-07-2024,Insulin (long),5,774.84,Dr. P. Roy,3874.2
+P0159,13-06-2025,Paracetamol 500mg,1,1977.06,Dr. B. Chatterjee,1977.06
+P0160,19-10-2024,Aspirin 75mg,3,1588.94,Dr. M. Chakraborty,4766.82
+P0161,22-06-2025,Spironolactone 25mg,3,1311,Dr. R. Das,3933
+P0162,28-12-2024,Pantoprazole 40mg,1,321.17,Dr. K. Dutta,321.17
+P0163,10-08-2025,Aspirin 75mg,5,1930.35,Dr. L. Saha,9651.75
+P0164,14-02-2024,Fluconazole 150mg,1,269.97,Dr. K. Dutta,269.97
+P0165,07-07-2025,Prednisone 10mg,3,1931.4,Dr. B. Chatterjee,5794.2
+P0166,07-11-2024,Ear Drops (Antibiotic),2,677.35,Dr. B. Chatterjee,1354.7
+P0167,23-06-2025,Calcium Carbonate 500mg,4,218.72,Dr. S. Banerjee,874.88
+P0168,25-08-2024,Pantoprazole 40mg,3,1693.18,Dr. L. Saha,5079.54
+P0169,04-07-2024,Clarithromycin 250mg,1,217.43,Dr. S. Banerjee,217.43
+P0170,03-02-2024,Warfarin 5mg,4,1822.67,Dr. M. Chakraborty,7290.68
+P0171,15-06-2025,Losartan 50mg,1,50.39,Dr. B. Chatterjee,50.39
+P0172,26-03-2024,Probiotic Sachet,1,305.43,Dr. N. Ghosh,305.43
+P0173,04-05-2024,Paracetamol 500mg,2,1744.45,Dr. B. Chatterjee,3488.9
+P0174,11-09-2024,Spironolactone 25mg,4,1940.51,Dr. A. Mukherjee,7762.04
+P0175,20-12-2024,Spironolactone 25mg,4,168.16,Dr. K. Dutta,672.64
+P0176,17-07-2025,Insulin (short),2,1567.42,Dr. B. Chatterjee,3134.84
+P0177,11-10-2024,Budesonide Nasal Spray,3,544.75,Dr. P. Roy,1634.25
+P0178,15-07-2024,Atorvastatin 10mg,1,1254.05,Dr. T. Sen,1254.05
+P0179,21-03-2025,Budesonide Nasal Spray,5,807.02,Dr. S. Banerjee,4035.1
+P0180,29-04-2025,Loperamide 2mg,1,179.02,Dr. P. Roy,179.02
+P0181,30-10-2024,Eye Drops (Antibiotic),1,670.56,Dr. M. Chakraborty,670.56
+P0182,27-01-2025,Doxycycline 100mg,3,1355.23,Dr. A. Mukherjee,4065.69
+P0183,19-04-2024,Eye Drops (Antibiotic),1,1076.57,Dr. K. Dutta,1076.57
+P0184,29-01-2025,Budesonide Nasal Spray,2,1909.2,Dr. M. Chakraborty,3818.4
+P0185,03-01-2024,Heparin Injection,2,1261.06,Dr. N. Ghosh,2522.12
+P0186,19-06-2024,Levocetirizine 5mg,4,1777.13,Dr. S. Banerjee,7108.52
+P0187,18-04-2025,Amlodipine 5mg,5,986.14,Dr. K. Dutta,4930.7
+P0188,14-04-2024,Diclofenac 50mg,1,1091.21,Dr. S. Banerjee,1091.21
+P0189,20-04-2025,Losartan 50mg,1,1242.57,Dr. P. Roy,1242.57
+P0190,31-10-2024,Fluconazole 150mg,3,484.85,Dr. P. Roy,1454.55
+P0191,19-04-2025,Lorazepam 1mg,2,1375.11,Dr. L. Saha,2750.22
+P0192,24-02-2024,Paracetamol 500mg,5,589.01,Dr. N. Ghosh,2945.05
+P0193,17-01-2025,Heparin Injection,4,470.42,Dr. L. Saha,1881.68
+P0194,29-01-2025,Vitamin D3 60k IU,2,198.95,Dr. T. Sen,397.9
+P0195,07-09-2024,Mupirocin Ointment,4,1957.11,Dr. R. Das,7828.44
+P0196,23-08-2025,Ibuprofen 400mg,3,1525.53,Dr. L. Saha,4576.59
+P0197,26-08-2024,Pantoprazole 40mg,3,1413.7,Dr. R. Das,4241.1
+P0198,24-01-2024,Diclofenac 50mg,1,219,Dr. P. Roy,219
+P0199,04-05-2024,Doxycycline 100mg,5,349.4,Dr. P. Roy,1747
+P0200,20-08-2024,Salbutamol Inhaler,4,612.94,Dr. A. Mukherjee,2451.76
+P0201,09-01-2024,Azithromycin 250mg,2,77.32,Dr. L. Saha,154.64
+P0202,19-07-2024,Salbutamol Inhaler,3,662.26,Dr. N. Ghosh,1986.78
+P0203,02-06-2025,Erythromycin 250mg,1,131.12,Dr. B. Chatterjee,131.12
+P0204,28-04-2024,Cetirizine 10mg,1,729.76,Dr. M. Chakraborty,729.76
+P0205,24-02-2025,Cetirizine 10mg,4,872.76,Dr. L. Saha,3491.04
+P0206,24-01-2025,Spironolactone 25mg,3,503.51,Dr. B. Chatterjee,1510.53
+P0207,03-06-2024,Mupirocin Ointment,5,835.86,Dr. R. Das,4179.3
+P0208,07-03-2025,Cefixime 200mg,3,1369.96,Dr. N. Ghosh,4109.88
+P0209,02-08-2024,Fluconazole 150mg,4,376.51,Dr. M. Chakraborty,1506.04
+P0210,21-03-2024,Metformin 500mg,4,366.64,Dr. M. Chakraborty,1466.56
+P0211,26-08-2024,Metformin 500mg,3,1226.79,Dr. L. Saha,3680.37
+P0212,01-01-2025,Topical Antifungal Cream,4,777.44,Dr. M. Chakraborty,3109.76
+P0213,13-04-2024,Cetirizine-D,3,1372.61,Dr. B. Chatterjee,4117.83
+P0214,27-05-2025,Insulin (long),2,1005.38,Dr. S. Banerjee,2010.76
+P0215,04-07-2024,Losartan 50mg,3,1174.65,Dr. R. Das,3523.95
+P0216,29-06-2024,Insulin (short),3,479.73,Dr. T. Sen,1439.19
+P0217,28-03-2025,Lorazepam 1mg,4,1283.05,Dr. A. Mukherjee,5132.2
+P0218,05-01-2025,Heparin Injection,4,929.95,Dr. M. Chakraborty,3719.8
+P0219,29-07-2024,Warfarin 5mg,1,1340.34,Dr. R. Das,1340.34
+P0220,06-07-2025,Ranitidine 150mg,1,1799.84,Dr. R. Das,1799.84
+P0221,11-09-2025,Fluconazole 150mg,2,941.2,Dr. P. Roy,1882.4
+P0222,01-08-2024,Spironolactone 25mg,1,589.51,Dr. R. Das,589.51
+P0223,14-07-2025,Co-trimoxazole 480mg,3,1102.26,Dr. N. Ghosh,3306.78
+P0224,11-08-2024,Levocetirizine 5mg,4,166.25,Dr. P. Roy,665
+P0225,27-04-2024,Levothyroxine 50mcg,1,1891.57,Dr. T. Sen,1891.57
+P0226,12-08-2025,Doxycycline 100mg,1,1975.55,Dr. K. Dutta,1975.55
+P0227,25-07-2025,Fexofenadine 120mg,2,612.33,Dr. R. Das,1224.66
+P0228,07-09-2024,Topical Antifungal Cream,2,1924.82,Dr. L. Saha,3849.64
+P0229,22-05-2024,Ear Drops (Antibiotic),3,1386.82,Dr. M. Chakraborty,4160.46
+P0230,28-03-2025,Diclofenac 50mg,4,924.53,Dr. T. Sen,3698.12
+P0231,22-03-2024,Captopril 25mg,2,618.2,Dr. T. Sen,1236.4
+P0232,01-04-2025,Lorazepam 1mg,1,1998.76,Dr. K. Dutta,1998.76
+P0233,01-01-2025,Captopril 25mg,4,1709.6,Dr. S. Banerjee,6838.4
+P0234,15-04-2024,Pantoprazole 40mg,4,231.17,Dr. S. Banerjee,924.68
+P0235,16-08-2024,Salbutamol Inhaler,1,775.1,Dr. T. Sen,775.1
+P0236,08-02-2025,Omeprazole 20mg,2,730.74,Dr. B. Chatterjee,1461.48
+P0237,24-01-2024,Cefixime 200mg,1,605.83,Dr. M. Chakraborty,605.83
+P0238,29-06-2025,Calcium Carbonate 500mg,4,1404.57,Dr. N. Ghosh,5618.28
+P0239,08-06-2024,Ibuprofen 400mg,5,63.44,Dr. K. Dutta,317.2
+P0240,28-11-2024,Nitroglycerin Spray,5,1663.47,Dr. K. Dutta,8317.35
+P0241,31-01-2024,Insulin (long),3,803.7,Dr. N. Ghosh,2411.1
+P0242,10-09-2025,Omeprazole 20mg,1,36.03,Dr. L. Saha,36.03
+P0243,15-02-2025,Nitroglycerin Spray,1,1732.83,Dr. A. Mukherjee,1732.83
+P0244,10-02-2025,Omeprazole 20mg,3,1561.06,Dr. S. Banerjee,4683.18
+P0245,13-01-2024,Paracetamol 500mg,3,1947.73,Dr. K. Dutta,5843.19
+P0246,05-03-2025,Cefixime 200mg,3,1823.02,Dr. N. Ghosh,5469.06
+P0247,16-09-2024,Levothyroxine 50mcg,4,1495.44,Dr. S. Banerjee,5981.76
+P0248,24-08-2024,Eye Drops (Antibiotic),1,1669.02,Dr. B. Chatterjee,1669.02
+P0249,06-12-2024,Azithromycin 250mg,4,1807.81,Dr. T. Sen,7231.24
+P0250,22-10-2024,Omeprazole 20mg,3,1555.97,Dr. P. Roy,4667.91
+P0251,05-04-2024,Cefixime 200mg,1,475.63,Dr. T. Sen,475.63
+P0252,08-03-2025,Amoxicillin 500mg,4,1607.83,Dr. P. Roy,6431.32
+P0253,27-01-2025,Calcium Carbonate 500mg,4,453.63,Dr. K. Dutta,1814.52
+P0254,06-07-2024,Cefixime 200mg,3,396.46,Dr. M. Chakraborty,1189.38
+P0255,15-02-2025,Budesonide Nasal Spray,1,516.24,Dr. N. Ghosh,516.24
+P0256,16-02-2025,Salbutamol Inhaler,3,1516.04,Dr. M. Chakraborty,4548.12
+P0257,16-06-2024,Prednisone 10mg,1,1539.59,Dr. N. Ghosh,1539.59
+P0258,11-01-2025,Topical Antifungal Cream,5,1368.09,Dr. B. Chatterjee,6840.45
+P0259,26-03-2024,Mupirocin Ointment,2,290.82,Dr. L. Saha,581.64
+P0260,31-05-2025,Ranitidine 150mg,2,212.38,Dr. R. Das,424.76
+P0261,06-03-2024,Fluconazole 150mg,2,1262.37,Dr. L. Saha,2524.74
+P0262,23-03-2025,Metformin 500mg,3,98.06,Dr. K. Dutta,294.18
+P0263,14-03-2024,Spironolactone 25mg,5,1581.45,Dr. N. Ghosh,7907.25
+P0264,11-03-2024,Erythromycin 250mg,1,86.06,Dr. A. Mukherjee,86.06
+P0265,07-03-2024,Erythromycin 250mg,4,742.43,Dr. A. Mukherjee,2969.72
+P0266,03-05-2024,Cetirizine-D,1,280.2,Dr. S. Banerjee,280.2
+P0267,04-05-2024,Salbutamol Inhaler,4,1821.06,Dr. K. Dutta,7284.24
+P0268,12-06-2024,Cetirizine-D,1,666.9,Dr. A. Mukherjee,666.9
+P0269,21-11-2024,Hydrochlorothiazide 25mg,5,842.7,Dr. S. Banerjee,4213.5
+P0270,05-05-2024,Levocetirizine 5mg,4,417.57,Dr. R. Das,1670.28
+P0271,13-03-2025,Loperamide 2mg,3,1577.3,Dr. K. Dutta,4731.9
+P0272,02-07-2024,Loperamide 2mg,1,1755.39,Dr. K. Dutta,1755.39
+P0273,25-01-2024,Topical Antifungal Cream,1,744.4,Dr. A. Mukherjee,744.4
+P0274,04-11-2024,Warfarin 5mg,4,1013.55,Dr. T. Sen,4054.2
+P0275,09-05-2024,Multivitamin Tablet,3,559.6,Dr. P. Roy,1678.8
+P0276,03-08-2025,Warfarin 5mg,3,345.8,Dr. R. Das,1037.4
+P0277,24-07-2024,Hydrochlorothiazide 25mg,5,1829.82,Dr. M. Chakraborty,9149.1
+P0278,02-01-2024,Probiotic Sachet,3,1889.49,Dr. R. Das,5668.47
+P0279,21-02-2025,Spironolactone 25mg,3,1935.42,Dr. M. Chakraborty,5806.26
+P0280,18-07-2025,Azithromycin 250mg,3,604.38,Dr. S. Banerjee,1813.14
+P0281,03-06-2025,Aspirin 75mg,2,1743.39,Dr. N. Ghosh,3486.78
+P0282,20-02-2025,Ear Drops (Antibiotic),5,1612.38,Dr. M. Chakraborty,8061.9
+P0283,02-04-2024,Ear Drops (Antibiotic),1,947.3,Dr. S. Banerjee,947.3
+P0284,26-02-2024,Loperamide 2mg,4,169.09,Dr. N. Ghosh,676.36
+P0285,14-11-2024,Azithromycin 250mg,1,1513.22,Dr. R. Das,1513.22
+P0286,26-03-2025,Fexofenadine 120mg,5,466.72,Dr. A. Mukherjee,2333.6
+P0287,04-03-2024,Spironolactone 25mg,4,1359.12,Dr. T. Sen,5436.48
+P0288,08-06-2024,Calcium Carbonate 500mg,5,1355.32,Dr. M. Chakraborty,6776.6
+P0289,23-05-2024,Loperamide 2mg,3,806.87,Dr. P. Roy,2420.61
+P0290,06-09-2025,Salbutamol Inhaler,4,1694.57,Dr. T. Sen,6778.28
+P0291,03-07-2024,Levocetirizine 5mg,3,1123.48,Dr. S. Banerjee,3370.44
+P0292,15-10-2024,Levocetirizine 5mg,1,198.8,Dr. S. Banerjee,198.8
+P0293,03-03-2024,Fluconazole 150mg,1,801.26,Dr. A. Mukherjee,801.26
+P0294,18-04-2024,Captopril 25mg,4,543.63,Dr. P. Roy,2174.52
+P0295,25-01-2024,Metformin 500mg,4,264.71,Dr. K. Dutta,1058.84
+P0296,29-06-2024,Warfarin 5mg,5,749.8,Dr. S. Banerjee,3749
+P0297,13-05-2025,Atorvastatin 10mg,5,1503.04,Dr. R. Das,7515.2
+P0298,13-07-2024,Prednisone 10mg,3,539.08,Dr. L. Saha,1617.24
+P0299,04-04-2025,Probiotic Sachet,4,774.43,Dr. P. Roy,3097.72
+P0300,29-02-2024,Salbutamol Inhaler,1,1284.33,Dr. B. Chatterjee,1284.33
+P0301,16-04-2025,Cefixime 200mg,5,755.52,Dr. K. Dutta,3777.6
+P0302,29-01-2024,Captopril 25mg,5,1356.18,Dr. A. Mukherjee,6780.9
+P0303,13-06-2025,Insulin (long),1,953.52,Dr. A. Mukherjee,953.52
+P0304,16-02-2025,Loperamide 2mg,5,1246.7,Dr. N. Ghosh,6233.5
+P0305,16-04-2024,Azithromycin 250mg,3,1887.47,Dr. S. Banerjee,5662.41
+P0306,10-08-2024,Ear Drops (Antibiotic),4,669.45,Dr. T. Sen,2677.8
+P0307,29-09-2024,Fluconazole 150mg,1,1227.96,Dr. R. Das,1227.96
+P0308,21-01-2025,Paracetamol 500mg,4,1302.35,Dr. K. Dutta,5209.4
+P0309,30-06-2025,Cetirizine 10mg,5,1278.1,Dr. S. Banerjee,6390.5
+P0310,27-02-2024,Salbutamol Inhaler,5,939.25,Dr. P. Roy,4696.25
+P0311,21-05-2025,Losartan 50mg,1,1408.13,Dr. T. Sen,1408.13
+P0312,23-04-2024,Hydrochlorothiazide 25mg,3,1305.49,Dr. S. Banerjee,3916.47
+P0313,06-09-2024,Mupirocin Ointment,2,251.02,Dr. S. Banerjee,502.04
+P0314,21-08-2025,Cetirizine-D,1,109.79,Dr. S. Banerjee,109.79
+P0315,18-06-2024,Ranitidine 150mg,2,93.68,Dr. N. Ghosh,187.36
+P0316,27-08-2024,Fexofenadine 120mg,2,1991.94,Dr. N. Ghosh,3983.88
+P0317,13-06-2025,Azithromycin 250mg,3,249.92,Dr. M. Chakraborty,749.76
+P0318,12-05-2025,Losartan 50mg,2,484.9,Dr. R. Das,969.8
+P0319,07-02-2025,Naproxen 250mg,2,1084.34,Dr. T. Sen,2168.68
+P0320,10-05-2025,Paracetamol 500mg,3,789.52,Dr. R. Das,2368.56
+P0321,11-03-2024,Naproxen 250mg,2,754.6,Dr. R. Das,1509.2
+P0322,09-03-2025,Insulin (short),2,1899.77,Dr. S. Banerjee,3799.54
+P0323,06-02-2024,Probiotic Sachet,2,1399.04,Dr. B. Chatterjee,2798.08
+P0324,09-08-2025,Clarithromycin 250mg,1,1089.58,Dr. L. Saha,1089.58
+P0325,09-04-2024,Warfarin 5mg,1,1182.93,Dr. A. Mukherjee,1182.93
+P0326,15-09-2024,Co-trimoxazole 480mg,1,1458.67,Dr. L. Saha,1458.67
+P0327,02-01-2025,Spironolactone 25mg,3,1773.12,Dr. R. Das,5319.36
+P0328,14-05-2025,Insulin (long),5,1316.75,Dr. K. Dutta,6583.75
+P0329,25-02-2025,Topical Antifungal Cream,2,1670.71,Dr. N. Ghosh,3341.42
+P0330,22-04-2024,Levothyroxine 50mcg,2,1238.99,Dr. P. Roy,2477.98
+P0331,24-08-2024,Mupirocin Ointment,3,1879.33,Dr. R. Das,5637.99
+P0332,11-08-2024,Amlodipine 5mg,2,573.89,Dr. T. Sen,1147.78
+P0333,18-01-2024,Levocetirizine 5mg,1,1386.76,Dr. L. Saha,1386.76
+P0334,01-03-2025,Clarithromycin 250mg,5,450.19,Dr. K. Dutta,2250.95
+P0335,05-06-2025,Ranitidine 150mg,4,900.5,Dr. P. Roy,3602
+P0336,28-08-2025,Azithromycin 250mg,2,487.5,Dr. S. Banerjee,975
+P0337,22-03-2024,Nitroglycerin Spray,1,738.12,Dr. S. Banerjee,738.12
+P0338,26-07-2025,Clopidogrel 75mg,4,1962.24,Dr. R. Das,7848.96
+P0339,11-03-2024,Fluconazole 150mg,5,747.32,Dr. S. Banerjee,3736.6
+P0340,12-09-2024,Azithromycin 250mg,4,1805.36,Dr. L. Saha,7221.44
+P0341,29-01-2024,Clopidogrel 75mg,1,1296.76,Dr. T. Sen,1296.76
+P0342,11-06-2024,Vitamin D3 60k IU,4,139.89,Dr. N. Ghosh,559.56
+P0343,14-07-2024,Azithromycin 250mg,3,566.25,Dr. T. Sen,1698.75
+P0344,14-03-2025,Azithromycin 250mg,4,1937.05,Dr. N. Ghosh,7748.2
+P0345,25-02-2025,Nitroglycerin Spray,2,1899.04,Dr. R. Das,3798.08
+P0346,22-04-2025,Cetirizine-D,2,1651.9,Dr. P. Roy,3303.8
+P0347,24-12-2024,Budesonide Nasal Spray,3,201.51,Dr. M. Chakraborty,604.53
+P0348,17-12-2024,Lorazepam 1mg,1,439.97,Dr. S. Banerjee,439.97
+P0349,31-08-2025,Losartan 50mg,2,1286.2,Dr. P. Roy,2572.4
+P0350,20-02-2025,Azithromycin 250mg,5,1942.76,Dr. B. Chatterjee,9713.8
+P0351,29-07-2024,Budesonide Nasal Spray,2,120.15,Dr. L. Saha,240.3
+P0352,21-11-2024,Cetirizine 10mg,2,680.35,Dr. L. Saha,1360.7
+P0353,11-03-2025,Atorvastatin 10mg,1,1977.87,Dr. L. Saha,1977.87
+P0354,29-02-2024,Cefixime 200mg,4,1578.22,Dr. M. Chakraborty,6312.88
+P0355,15-02-2025,Heparin Injection,2,426.31,Dr. A. Mukherjee,852.62
+P0356,03-06-2024,Cefixime 200mg,3,1663.04,Dr. M. Chakraborty,4989.12
+P0357,03-08-2024,Aspirin 75mg,4,1117.33,Dr. P. Roy,4469.32
+P0358,24-02-2025,Salbutamol Inhaler,5,1181.04,Dr. B. Chatterjee,5905.2
+P0359,27-08-2024,Fexofenadine 120mg,1,1629.84,Dr. L. Saha,1629.84
+P0360,05-06-2025,Pantoprazole 40mg,5,481.34,Dr. B. Chatterjee,2406.7
+P0361,13-12-2024,Erythromycin 250mg,4,1553.25,Dr. P. Roy,6213
+P0362,06-09-2025,Salbutamol Inhaler,4,1581.51,Dr. T. Sen,6326.04
+P0363,03-02-2024,Nitroglycerin Spray,4,1200.04,Dr. M. Chakraborty,4800.16
+P0364,04-02-2025,Heparin Injection,5,569,Dr. A. Mukherjee,2845
+P0365,07-04-2024,Amoxicillin 500mg,4,1968.38,Dr. P. Roy,7873.52
+P0366,11-06-2025,Saline IV 500ml,5,1975.3,Dr. K. Dutta,9876.5
+P0367,13-06-2025,Cetirizine 10mg,4,1089.63,Dr. T. Sen,4358.52
+P0368,24-06-2025,Hydrochlorothiazide 25mg,3,1601.06,Dr. S. Banerjee,4803.18
+P0369,16-02-2024,Topical Antifungal Cream,4,237.65,Dr. P. Roy,950.6
+P0370,01-11-2024,Nitroglycerin Spray,5,1735.57,Dr. K. Dutta,8677.85
+P0371,29-05-2024,Erythromycin 250mg,2,280.97,Dr. L. Saha,561.94
+P0372,26-08-2025,Lorazepam 1mg,4,729.32,Dr. S. Banerjee,2917.28
+P0373,01-02-2024,Vitamin D3 60k IU,2,1581.09,Dr. B. Chatterjee,3162.18
+P0374,18-05-2024,Insulin (short),3,1185.93,Dr. A. Mukherjee,3557.79
+P0375,04-02-2025,Ranitidine 150mg,1,51.25,Dr. N. Ghosh,51.25
+P0376,07-09-2024,Topical Antifungal Cream,3,545.43,Dr. N. Ghosh,1636.29
+P0377,26-05-2024,Levothyroxine 50mcg,4,270.98,Dr. R. Das,1083.92
+P0378,12-10-2024,Vitamin D3 60k IU,2,853.5,Dr. T. Sen,1707
+P0379,13-05-2025,Salbutamol Inhaler,2,245.03,Dr. L. Saha,490.06
+P0380,05-10-2024,Insulin (short),5,145.84,Dr. T. Sen,729.2
+P0381,16-06-2025,Fexofenadine 120mg,2,907.58,Dr. N. Ghosh,1815.16
+P0382,05-10-2024,Metformin 500mg,5,736.84,Dr. B. Chatterjee,3684.2
+P0383,14-03-2024,Topical Antifungal Cream,1,1195.46,Dr. R. Das,1195.46
+P0384,05-11-2024,Ear Drops (Antibiotic),4,914.97,Dr. K. Dutta,3659.88
+P0385,10-02-2025,Doxycycline 100mg,5,458.67,Dr. S. Banerjee,2293.35
+P0386,04-03-2024,Probiotic Sachet,1,1237.91,Dr. A. Mukherjee,1237.91
+P0387,13-09-2024,Vitamin D3 60k IU,2,1459.94,Dr. L. Saha,2919.88
+P0388,12-12-2024,Cefixime 200mg,2,1819.33,Dr. S. Banerjee,3638.66
+P0389,01-01-2024,Paracetamol 500mg,1,1324.63,Dr. A. Mukherjee,1324.63
+P0390,26-02-2024,Probiotic Sachet,2,617.23,Dr. M. Chakraborty,1234.46
+P0391,10-01-2025,Saline IV 500ml,1,1293.81,Dr. P. Roy,1293.81
+P0392,20-01-2025,Erythromycin 250mg,5,81.68,Dr. A. Mukherjee,408.4
+P0393,08-07-2024,Loperamide 2mg,5,1997.2,Dr. A. Mukherjee,9986
+P0394,12-11-2024,Cefixime 200mg,1,1697.65,Dr. T. Sen,1697.65
+P0395,08-05-2024,Fluconazole 150mg,5,864.02,Dr. B. Chatterjee,4320.1
+P0396,21-02-2025,Ranitidine 150mg,5,233.76,Dr. M. Chakraborty,1168.8
+P0397,14-08-2025,Budesonide Nasal Spray,5,1430.55,Dr. B. Chatterjee,7152.75
+P0398,13-08-2024,Insulin (short),3,898.25,Dr. T. Sen,2694.75
+P0399,03-02-2024,Metformin 500mg,4,1800.55,Dr. T. Sen,7202.2
+P0400,18-05-2024,Multivitamin Tablet,2,657.78,Dr. T. Sen,1315.56
+P0401,09-10-2024,Cefixime 200mg,3,313.7,Dr. S. Banerjee,941.1
+P0402,14-12-2024,Salbutamol Inhaler,5,269.86,Dr. B. Chatterjee,1349.3
+P0403,20-01-2025,Diclofenac 50mg,1,1256.15,Dr. B. Chatterjee,1256.15
+P0404,21-10-2024,Clarithromycin 250mg,5,1179.02,Dr. L. Saha,5895.1
+P0405,12-02-2025,Losartan 50mg,4,1430.06,Dr. R. Das,5720.24
+P0406,21-03-2025,Captopril 25mg,5,774.19,Dr. M. Chakraborty,3870.95
+P0407,11-03-2024,Fluconazole 150mg,1,1202.84,Dr. S. Banerjee,1202.84
+P0408,17-04-2025,Levothyroxine 50mcg,4,603.9,Dr. M. Chakraborty,2415.6
+P0409,17-05-2024,Doxycycline 100mg,5,1020.99,Dr. S. Banerjee,5104.95
+P0410,31-07-2024,Saline IV 500ml,4,871.79,Dr. B. Chatterjee,3487.16
+P0411,31-05-2025,Ear Drops (Antibiotic),2,1590.33,Dr. P. Roy,3180.66
+P0412,22-08-2025,Lorazepam 1mg,2,246.54,Dr. R. Das,493.08
+P0413,30-06-2024,Paracetamol 500mg,5,1316.33,Dr. B. Chatterjee,6581.65
+P0414,20-11-2024,Topical Antifungal Cream,4,1757.86,Dr. N. Ghosh,7031.44
+P0415,12-03-2025,Insulin (long),1,1111.64,Dr. T. Sen,1111.64
+P0416,29-01-2024,Doxycycline 100mg,5,1733.67,Dr. L. Saha,8668.35
+P0417,12-04-2024,Topical Antifungal Cream,2,871.54,Dr. S. Banerjee,1743.08
+P0418,28-03-2024,Loperamide 2mg,2,1778.42,Dr. M. Chakraborty,3556.84
+P0419,21-03-2025,Metformin 500mg,5,839.35,Dr. T. Sen,4196.75
+P0420,24-03-2025,Insulin (short),4,1658.29,Dr. P. Roy,6633.16
+P0421,07-03-2024,Pantoprazole 40mg,2,809.49,Dr. A. Mukherjee,1618.98
+P0422,14-01-2025,Loperamide 2mg,4,1464.63,Dr. P. Roy,5858.52
+P0423,26-04-2024,Clopidogrel 75mg,2,638.85,Dr. S. Banerjee,1277.7
+P0424,01-08-2025,Insulin (long),2,638.8,Dr. T. Sen,1277.6
+P0425,01-09-2024,Amlodipine 5mg,3,524.68,Dr. S. Banerjee,1574.04
+P0426,11-10-2024,Prednisone 10mg,2,1908.11,Dr. K. Dutta,3816.22
+P0427,01-05-2025,Clarithromycin 250mg,1,1379.91,Dr. L. Saha,1379.91
+P0428,21-03-2025,Heparin Injection,5,959.05,Dr. L. Saha,4795.25
+P0429,08-03-2024,Ranitidine 150mg,5,200.63,Dr. A. Mukherjee,1003.15
+P0430,14-09-2024,Levothyroxine 50mcg,4,189.02,Dr. M. Chakraborty,756.08
+P0431,30-07-2025,Calcium Carbonate 500mg,2,875.12,Dr. R. Das,1750.24
+P0432,04-06-2025,Ranitidine 150mg,1,1494.29,Dr. S. Banerjee,1494.29
+P0433,01-01-2025,Aspirin 75mg,4,757.84,Dr. A. Mukherjee,3031.36
+P0434,25-04-2025,Eye Drops (Antibiotic),3,277.63,Dr. R. Das,832.89
+P0435,07-10-2024,Insulin (short),4,138.76,Dr. A. Mukherjee,555.04
+P0436,13-02-2025,Budesonide Nasal Spray,4,1914.12,Dr. R. Das,7656.48
+P0437,17-08-2025,Mupirocin Ointment,2,1132.13,Dr. K. Dutta,2264.26
+P0438,24-03-2024,Insulin (short),3,1346.63,Dr. N. Ghosh,4039.89
+P0439,06-11-2024,Azithromycin 250mg,4,833.4,Dr. B. Chatterjee,3333.6
+P0440,25-11-2024,Cetirizine 10mg,1,1749.74,Dr. B. Chatterjee,1749.74
+P0441,31-01-2024,Eye Drops (Antibiotic),1,1883.44,Dr. M. Chakraborty,1883.44
+P0442,04-08-2025,Warfarin 5mg,5,857.41,Dr. R. Das,4287.05
+P0443,05-06-2025,Prednisone 10mg,3,1833.37,Dr. N. Ghosh,5500.11
+P0444,27-10-2024,Amoxicillin 500mg,3,121.86,Dr. R. Das,365.58
+P0445,12-11-2024,Paracetamol 500mg,5,589.51,Dr. M. Chakraborty,2947.55
+P0446,26-07-2025,Calcium Carbonate 500mg,4,638.65,Dr. S. Banerjee,2554.6
+P0447,20-04-2024,Metformin 500mg,3,225.13,Dr. A. Mukherjee,675.39
+P0448,25-12-2024,Eye Drops (Antibiotic),1,1024.68,Dr. N. Ghosh,1024.68
+P0449,30-03-2025,Insulin (short),1,326.37,Dr. T. Sen,326.37
+P0450,20-03-2024,Losartan 50mg,2,974.74,Dr. M. Chakraborty,1949.48
+P0451,28-08-2024,Clopidogrel 75mg,3,1697.6,Dr. B. Chatterjee,5092.8
+P0452,08-01-2025,Captopril 25mg,4,713.23,Dr. S. Banerjee,2852.92
+P0453,03-07-2025,Insulin (long),5,1121.41,Dr. M. Chakraborty,5607.05
+P0454,09-11-2024,Levothyroxine 50mcg,5,247.47,Dr. L. Saha,1237.35
+P0455,27-08-2024,Warfarin 5mg,4,571.57,Dr. S. Banerjee,2286.28
+P0456,01-09-2025,Insulin (long),2,467.8,Dr. K. Dutta,935.6
+P0457,23-07-2025,Paracetamol 500mg,5,869.64,Dr. K. Dutta,4348.2
+P0458,19-04-2025,Pantoprazole 40mg,3,1130.71,Dr. B. Chatterjee,3392.13
+P0459,19-06-2024,Cefixime 200mg,2,1539.52,Dr. N. Ghosh,3079.04
+P0460,22-08-2025,Co-trimoxazole 480mg,3,1251.01,Dr. A. Mukherjee,3753.03
+P0461,26-08-2025,Amlodipine 5mg,1,1356.45,Dr. K. Dutta,1356.45
+P0462,08-10-2024,Fluconazole 150mg,2,1122.34,Dr. L. Saha,2244.68
+P0463,23-03-2024,Amoxicillin 500mg,5,1225.81,Dr. R. Das,6129.05
+P0464,13-09-2024,Diclofenac 50mg,2,1322.51,Dr. N. Ghosh,2645.02
+P0465,11-03-2025,Nitroglycerin Spray,2,1393.07,Dr. R. Das,2786.14
+P0466,10-04-2025,Insulin (long),2,77.33,Dr. M. Chakraborty,154.66
+P0467,04-07-2024,Amlodipine 5mg,2,561.08,Dr. S. Banerjee,1122.16
+P0468,12-03-2025,Warfarin 5mg,3,1529.57,Dr. L. Saha,4588.71
+P0469,19-06-2025,Metformin 500mg,1,1844.64,Dr. S. Banerjee,1844.64
+P0470,18-03-2025,Amoxicillin 500mg,4,715.03,Dr. P. Roy,2860.12
+P0471,04-08-2025,Doxycycline 100mg,2,379.18,Dr. B. Chatterjee,758.36
+P0472,28-01-2025,Diclofenac 50mg,5,303.64,Dr. A. Mukherjee,1518.2
+P0473,04-05-2024,Amoxicillin 500mg,2,1321.54,Dr. A. Mukherjee,2643.08
+P0474,23-01-2025,Multivitamin Tablet,5,157.78,Dr. A. Mukherjee,788.9
+P0475,29-06-2024,Ranitidine 150mg,3,1487.12,Dr. P. Roy,4461.36
+P0476,02-08-2024,Aspirin 75mg,5,1944.18,Dr. A. Mukherjee,9720.9
+P0477,22-02-2025,Salbutamol Inhaler,4,201.68,Dr. K. Dutta,806.72
+P0478,02-09-2025,Topical Antifungal Cream,1,1070.36,Dr. N. Ghosh,1070.36
+P0479,08-02-2025,Loperamide 2mg,5,764.86,Dr. T. Sen,3824.3
+P0480,19-08-2025,Multivitamin Tablet,5,918.22,Dr. R. Das,4591.1
+P0481,09-11-2024,Insulin (long),1,331.67,Dr. R. Das,331.67
+P0482,07-03-2025,Hydrochlorothiazide 25mg,4,637.04,Dr. A. Mukherjee,2548.16
+P0483,19-07-2024,Saline IV 500ml,2,662.28,Dr. B. Chatterjee,1324.56
+P0484,12-03-2024,Clopidogrel 75mg,5,1883.99,Dr. T. Sen,9419.95
+P0485,07-08-2024,Amlodipine 5mg,1,1200.52,Dr. P. Roy,1200.52
+P0486,25-10-2024,Salbutamol Inhaler,3,1769.02,Dr. N. Ghosh,5307.06
+P0487,20-12-2024,Losartan 50mg,1,328.05,Dr. P. Roy,328.05
+P0488,18-02-2025,Atorvastatin 10mg,3,1513.78,Dr. T. Sen,4541.34
+P0489,16-09-2024,Hydrochlorothiazide 25mg,4,118.53,Dr. N. Ghosh,474.12
+P0490,10-04-2025,Ibuprofen 400mg,2,181.53,Dr. M. Chakraborty,363.06
+P0491,07-06-2025,Atorvastatin 10mg,1,897.36,Dr. S. Banerjee,897.36
+P0492,26-06-2024,Clopidogrel 75mg,5,859.55,Dr. L. Saha,4297.75
+P0493,11-06-2025,Calcium Carbonate 500mg,4,1222.01,Dr. N. Ghosh,4888.04
+P0494,17-05-2025,Hydrochlorothiazide 25mg,1,840.08,Dr. S. Banerjee,840.08
+P0495,21-11-2024,Topical Antifungal Cream,5,446.83,Dr. B. Chatterjee,2234.15
+P0496,16-01-2024,Clopidogrel 75mg,1,1034.45,Dr. A. Mukherjee,1034.45
+P0497,31-03-2024,Salbutamol Inhaler,3,703.44,Dr. R. Das,2110.32
+P0498,20-02-2025,Prednisone 10mg,1,239.56,Dr. P. Roy,239.56
+P0499,04-05-2024,Losartan 50mg,1,1362.87,Dr. B. Chatterjee,1362.87
+P0500,11-04-2025,Co-trimoxazole 480mg,1,1194.41,Dr. A. Mukherjee,1194.41
+P0501,10-04-2024,Loperamide 2mg,4,1063.33,Dr. T. Sen,4253.32
+P0502,27-06-2024,Naproxen 250mg,1,630.67,Dr. S. Banerjee,630.67
+P0503,04-06-2024,Amoxicillin 500mg,5,456.63,Dr. K. Dutta,2283.15
+P0504,06-06-2025,Cetirizine-D,3,1969.2,Dr. M. Chakraborty,5907.6
+P0505,05-03-2025,Omeprazole 20mg,3,128.47,Dr. M. Chakraborty,385.41
+P0506,02-07-2024,Levocetirizine 5mg,1,424.76,Dr. N. Ghosh,424.76
+P0507,13-04-2025,Probiotic Sachet,4,1891.74,Dr. S. Banerjee,7566.96
+P0508,21-01-2024,Multivitamin Tablet,4,1539.35,Dr. B. Chatterjee,6157.4
+P0509,21-05-2025,Doxycycline 100mg,5,1533.04,Dr. K. Dutta,7665.2
+P0510,04-03-2024,Omeprazole 20mg,1,593.11,Dr. A. Mukherjee,593.11
+P0511,23-06-2025,Omeprazole 20mg,3,257.57,Dr. N. Ghosh,772.71
+P0512,04-04-2025,Ibuprofen 400mg,4,1004.82,Dr. P. Roy,4019.28
+P0513,21-06-2025,Topical Antifungal Cream,1,872.7,Dr. M. Chakraborty,872.7
+P0514,06-04-2025,Levocetirizine 5mg,4,275.79,Dr. L. Saha,1103.16
+P0515,15-12-2024,Fexofenadine 120mg,4,1074.51,Dr. M. Chakraborty,4298.04
+P0516,27-05-2024,Calcium Carbonate 500mg,3,475.62,Dr. L. Saha,1426.86
+P0517,02-05-2025,Prednisone 10mg,2,1126.27,Dr. P. Roy,2252.54
+P0518,11-05-2025,Cefixime 200mg,5,1342.74,Dr. K. Dutta,6713.7
+P0519,27-06-2024,Prednisone 10mg,5,721.25,Dr. N. Ghosh,3606.25
+P0520,17-02-2025,Multivitamin Tablet,3,806.2,Dr. L. Saha,2418.6
+P0521,30-07-2025,Ear Drops (Antibiotic),4,1489.24,Dr. K. Dutta,5956.96
+P0522,29-08-2024,Budesonide Nasal Spray,1,883.71,Dr. P. Roy,883.71
+P0523,18-08-2025,Fexofenadine 120mg,4,930.31,Dr. B. Chatterjee,3721.24
+P0524,29-08-2025,Aspirin 75mg,3,174.17,Dr. P. Roy,522.51
+P0525,13-07-2024,Fluconazole 150mg,5,639.86,Dr. R. Das,3199.3
+P0526,09-12-2024,Calcium Carbonate 500mg,4,869.98,Dr. A. Mukherjee,3479.92
+P0527,09-01-2024,Ibuprofen 400mg,5,820.76,Dr. T. Sen,4103.8
+P0528,05-06-2024,Pantoprazole 40mg,1,1287.48,Dr. A. Mukherjee,1287.48
+P0529,20-01-2025,Insulin (short),5,593.24,Dr. P. Roy,2966.2
+P0530,30-04-2025,Atorvastatin 10mg,5,821.96,Dr. B. Chatterjee,4109.8
+P0531,25-06-2025,Nitroglycerin Spray,2,1933.08,Dr. N. Ghosh,3866.16
+P0532,31-05-2025,Insulin (short),2,360.31,Dr. A. Mukherjee,720.62
+P0533,20-07-2025,Amoxicillin 500mg,2,1896.28,Dr. N. Ghosh,3792.56
+P0534,14-03-2025,Loperamide 2mg,5,930.99,Dr. A. Mukherjee,4654.95
+P0535,06-02-2025,Heparin Injection,3,1385.43,Dr. T. Sen,4156.29
+P0536,14-04-2025,Warfarin 5mg,5,736.47,Dr. M. Chakraborty,3682.35
+P0537,05-12-2024,Multivitamin Tablet,3,884.69,Dr. S. Banerjee,2654.07
+P0538,10-01-2025,Spironolactone 25mg,3,229.61,Dr. P. Roy,688.83
+P0539,27-04-2025,Vitamin D3 60k IU,2,882.64,Dr. B. Chatterjee,1765.28
+P0540,22-08-2025,Warfarin 5mg,4,812.89,Dr. P. Roy,3251.56
+P0541,01-07-2024,Heparin Injection,1,175.72,Dr. T. Sen,175.72
+P0542,20-04-2024,Budesonide Nasal Spray,2,1743.64,Dr. K. Dutta,3487.28
+P0543,28-02-2025,Pantoprazole 40mg,2,1496.69,Dr. A. Mukherjee,2993.38
+P0544,26-04-2024,Naproxen 250mg,4,458.71,Dr. R. Das,1834.84
+P0545,18-04-2024,Erythromycin 250mg,1,1562.65,Dr. M. Chakraborty,1562.65
+P0546,15-11-2024,Levocetirizine 5mg,5,171.23,Dr. S. Banerjee,856.15
+P0547,22-08-2024,Insulin (short),5,1273.78,Dr. A. Mukherjee,6368.9
+P0548,23-09-2024,Amoxicillin 500mg,2,1070.6,Dr. P. Roy,2141.2
+P0549,12-12-2024,Levothyroxine 50mcg,1,403.93,Dr. B. Chatterjee,403.93
+P0550,21-03-2024,Warfarin 5mg,2,1556.93,Dr. T. Sen,3113.86
+P0551,29-12-2024,Paracetamol 500mg,3,715.18,Dr. N. Ghosh,2145.54
+P0552,07-06-2024,Lorazepam 1mg,2,1917.28,Dr. K. Dutta,3834.56
+P0553,24-07-2024,Fluconazole 150mg,2,1297.98,Dr. S. Banerjee,2595.96
+P0554,17-03-2025,Aspirin 75mg,5,312.43,Dr. L. Saha,1562.15
+P0555,06-04-2024,Spironolactone 25mg,5,223.55,Dr. S. Banerjee,1117.75
+P0556,05-04-2024,Clopidogrel 75mg,5,526.82,Dr. B. Chatterjee,2634.1
+P0557,19-07-2024,Clopidogrel 75mg,3,363.53,Dr. R. Das,1090.59
+P0558,01-02-2024,Topical Antifungal Cream,5,322.68,Dr. T. Sen,1613.4
+P0559,02-08-2025,Levocetirizine 5mg,1,1523.12,Dr. S. Banerjee,1523.12
+P0560,17-01-2025,Diclofenac 50mg,4,169.2,Dr. L. Saha,676.8
+P0561,15-02-2025,Warfarin 5mg,1,1903.56,Dr. L. Saha,1903.56
+P0562,01-11-2024,Cefixime 200mg,1,1263.34,Dr. A. Mukherjee,1263.34
+P0563,22-12-2024,Topical Antifungal Cream,5,938.63,Dr. T. Sen,4693.15
+P0564,10-08-2024,Calcium Carbonate 500mg,4,1136.2,Dr. R. Das,4544.8
+P0565,02-05-2025,Saline IV 500ml,4,1167.35,Dr. P. Roy,4669.4
+P0566,16-07-2024,Vitamin D3 60k IU,4,1368.64,Dr. M. Chakraborty,5474.56
+P0567,16-05-2024,Topical Antifungal Cream,3,1766.46,Dr. M. Chakraborty,5299.38
+P0568,24-04-2024,Pantoprazole 40mg,5,1293.12,Dr. N. Ghosh,6465.6
+P0569,12-02-2024,Spironolactone 25mg,4,1973.33,Dr. T. Sen,7893.32
+P0570,10-11-2024,Doxycycline 100mg,3,659.95,Dr. N. Ghosh,1979.85
+P0571,15-09-2024,Budesonide Nasal Spray,2,1942.53,Dr. N. Ghosh,3885.06
+P0572,30-11-2024,Doxycycline 100mg,2,645.96,Dr. K. Dutta,1291.92
+P0573,27-02-2024,Topical Antifungal Cream,3,890.73,Dr. M. Chakraborty,2672.19
+P0574,17-05-2024,Hydrochlorothiazide 25mg,3,948.46,Dr. P. Roy,2845.38
+P0575,12-05-2024,Vitamin D3 60k IU,5,1270.14,Dr. S. Banerjee,6350.7
+P0576,25-07-2024,Fexofenadine 120mg,5,1596.73,Dr. P. Roy,7983.65
+P0577,12-08-2024,Co-trimoxazole 480mg,2,1191.01,Dr. R. Das,2382.02
+P0578,15-05-2024,Clarithromycin 250mg,4,716.85,Dr. L. Saha,2867.4
+P0579,13-04-2025,Insulin (long),2,166.9,Dr. S. Banerjee,333.8
+P0580,25-11-2024,Metformin 500mg,4,934.25,Dr. R. Das,3737
+P0581,11-09-2025,Levocetirizine 5mg,4,94.46,Dr. S. Banerjee,377.84
+P0582,27-05-2025,Hydrochlorothiazide 25mg,5,750.1,Dr. R. Das,3750.5
+P0583,02-09-2025,Topical Antifungal Cream,1,588.41,Dr. K. Dutta,588.41
+P0584,06-01-2024,Naproxen 250mg,1,1296.44,Dr. K. Dutta,1296.44
+P0585,20-02-2025,Aspirin 75mg,3,1955.19,Dr. N. Ghosh,5865.57
+P0586,04-10-2024,Clopidogrel 75mg,5,198.79,Dr. T. Sen,993.95
+P0587,16-07-2025,Atorvastatin 10mg,4,1196.28,Dr. S. Banerjee,4785.12
+P0588,16-01-2025,Saline IV 500ml,1,781.28,Dr. B. Chatterjee,781.28
+P0589,21-01-2025,Erythromycin 250mg,4,1169.05,Dr. N. Ghosh,4676.2
+P0590,19-08-2025,Doxycycline 100mg,1,1909.38,Dr. P. Roy,1909.38
+P0591,28-02-2025,Fexofenadine 120mg,1,1483.06,Dr. K. Dutta,1483.06
+P0592,18-07-2024,Insulin (long),1,101.22,Dr. M. Chakraborty,101.22
+P0593,23-07-2025,Paracetamol 500mg,5,1819.92,Dr. K. Dutta,9099.6
+P0594,10-08-2025,Doxycycline 100mg,2,1151.88,Dr. M. Chakraborty,2303.76
+P0595,28-08-2024,Clarithromycin 250mg,4,392.71,Dr. S. Banerjee,1570.84
+P0596,02-12-2024,Ranitidine 150mg,5,1217.91,Dr. S. Banerjee,6089.55
+P0597,24-06-2024,Warfarin 5mg,5,1012.71,Dr. R. Das,5063.55
+P0598,20-07-2025,Nitroglycerin Spray,5,1916.29,Dr. M. Chakraborty,9581.45
+P0599,26-05-2025,Heparin Injection,5,912.04,Dr. L. Saha,4560.2
+P0600,21-08-2024,Ear Drops (Antibiotic),5,1625.71,Dr. A. Mukherjee,8128.55
+P0601,14-05-2025,Vitamin D3 60k IU,3,1678.01,Dr. P. Roy,5034.03
+P0602,04-10-2024,Probiotic Sachet,4,1965.12,Dr. N. Ghosh,7860.48
+P0603,28-01-2024,Captopril 25mg,5,186.97,Dr. R. Das,934.85
+P0604,12-07-2025,Captopril 25mg,4,1299.33,Dr. S. Banerjee,5197.32
+P0605,29-04-2024,Aspirin 75mg,3,97.5,Dr. P. Roy,292.5
+P0606,15-11-2024,Ranitidine 150mg,3,1421.09,Dr. N. Ghosh,4263.27
+P0607,12-08-2025,Budesonide Nasal Spray,4,1982.15,Dr. T. Sen,7928.6
+P0608,14-04-2024,Cetirizine-D,1,1057.66,Dr. B. Chatterjee,1057.66
+P0609,17-08-2025,Clopidogrel 75mg,2,1227.41,Dr. A. Mukherjee,2454.82
+P0610,30-11-2024,Losartan 50mg,1,740.52,Dr. M. Chakraborty,740.52
+P0611,05-01-2024,Topical Antifungal Cream,1,1837.51,Dr. M. Chakraborty,1837.51
+P0612,10-02-2024,Cetirizine 10mg,1,787.08,Dr. R. Das,787.08
+P0613,20-02-2025,Clarithromycin 250mg,5,1553.44,Dr. A. Mukherjee,7767.2
+P0614,26-04-2025,Budesonide Nasal Spray,3,1364.22,Dr. T. Sen,4092.66
+P0615,21-06-2025,Topical Antifungal Cream,1,123.68,Dr. K. Dutta,123.68
+P0616,20-09-2024,Eye Drops (Antibiotic),3,1269.16,Dr. B. Chatterjee,3807.48
+P0617,05-03-2024,Saline IV 500ml,4,682.61,Dr. B. Chatterjee,2730.44
+P0618,30-11-2024,Calcium Carbonate 500mg,2,672.79,Dr. P. Roy,1345.58
+P0619,13-03-2025,Cetirizine 10mg,4,1124.77,Dr. S. Banerjee,4499.08
+P0620,30-08-2025,Salbutamol Inhaler,4,785.4,Dr. K. Dutta,3141.6
+P0621,27-04-2025,Aspirin 75mg,5,518.95,Dr. S. Banerjee,2594.75
+P0622,06-02-2025,Doxycycline 100mg,2,1706.1,Dr. R. Das,3412.2
+P0623,07-08-2025,Omeprazole 20mg,4,1929.53,Dr. S. Banerjee,7718.12
+P0624,09-04-2025,Levocetirizine 5mg,4,1213.35,Dr. A. Mukherjee,4853.4
+P0625,05-04-2024,Amlodipine 5mg,2,317.74,Dr. A. Mukherjee,635.48
+P0626,12-10-2024,Ibuprofen 400mg,2,181.37,Dr. P. Roy,362.74
+P0627,25-07-2024,Amoxicillin 500mg,4,1333.95,Dr. R. Das,5335.8
+P0628,24-02-2024,Salbutamol Inhaler,2,1835.16,Dr. P. Roy,3670.32
+P0629,03-02-2024,Cetirizine-D,4,634.26,Dr. T. Sen,2537.04
+P0630,09-05-2025,Saline IV 500ml,4,1318.99,Dr. N. Ghosh,5275.96
+P0631,13-12-2024,Cefixime 200mg,5,1331.03,Dr. S. Banerjee,6655.15
+P0632,23-12-2024,Probiotic Sachet,1,275.32,Dr. L. Saha,275.32
+P0633,21-05-2024,Hydrochlorothiazide 25mg,4,1423.49,Dr. L. Saha,5693.96
+P0634,09-06-2024,Eye Drops (Antibiotic),3,187.74,Dr. M. Chakraborty,563.22
+P0635,29-08-2024,Erythromycin 250mg,1,1126.67,Dr. S. Banerjee,1126.67
+P0636,26-01-2025,Levocetirizine 5mg,1,1294.12,Dr. A. Mukherjee,1294.12
+P0637,26-09-2024,Levothyroxine 50mcg,1,670.38,Dr. S. Banerjee,670.38
+P0638,11-01-2024,Co-trimoxazole 480mg,5,273.03,Dr. P. Roy,1365.15
+P0639,22-02-2025,Naproxen 250mg,4,1411.61,Dr. K. Dutta,5646.44
+P0640,28-11-2024,Mupirocin Ointment,5,1895.28,Dr. R. Das,9476.4
+P0641,02-02-2025,Fexofenadine 120mg,4,1994.38,Dr. S. Banerjee,7977.52
+P0642,19-01-2025,Salbutamol Inhaler,5,1826.65,Dr. N. Ghosh,9133.25
+P0643,15-04-2025,Amlodipine 5mg,5,205.04,Dr. S. Banerjee,1025.2
+P0644,30-12-2024,Ear Drops (Antibiotic),3,1347.5,Dr. A. Mukherjee,4042.5
+P0645,11-03-2025,Co-trimoxazole 480mg,5,1026.81,Dr. K. Dutta,5134.05
+P0646,15-02-2024,Paracetamol 500mg,2,56.1,Dr. A. Mukherjee,112.2
+P0647,31-07-2025,Loperamide 2mg,3,631.55,Dr. R. Das,1894.65
+P0648,07-03-2024,Warfarin 5mg,5,1903.32,Dr. L. Saha,9516.6
+P0649,04-05-2025,Omeprazole 20mg,1,696.63,Dr. T. Sen,696.63
+P0650,06-07-2024,Atorvastatin 10mg,2,1536.99,Dr. T. Sen,3073.98
+P0651,23-02-2024,Co-trimoxazole 480mg,2,400.17,Dr. K. Dutta,800.34
+P0652,21-04-2025,Lorazepam 1mg,2,1999.95,Dr. A. Mukherjee,3999.9
+P0653,29-09-2024,Probiotic Sachet,3,326.79,Dr. T. Sen,980.37
+P0654,02-09-2024,Azithromycin 250mg,5,605.67,Dr. T. Sen,3028.35
+P0655,14-02-2025,Insulin (long),5,1580.48,Dr. R. Das,7902.4
+P0656,21-10-2024,Salbutamol Inhaler,1,1025.23,Dr. N. Ghosh,1025.23
+P0657,27-11-2024,Pantoprazole 40mg,1,1088.75,Dr. P. Roy,1088.75
+P0658,25-03-2024,Probiotic Sachet,2,1482.52,Dr. R. Das,2965.04
+P0659,31-08-2024,Metformin 500mg,1,1062.53,Dr. M. Chakraborty,1062.53
+P0660,11-05-2025,Probiotic Sachet,3,1330.62,Dr. M. Chakraborty,3991.86
+P0661,05-12-2024,Topical Antifungal Cream,5,1755.26,Dr. K. Dutta,8776.3
+P0662,20-08-2025,Lorazepam 1mg,2,1243.7,Dr. R. Das,2487.4
+P0663,30-03-2024,Insulin (long),1,1202.55,Dr. A. Mukherjee,1202.55
+P0664,25-02-2025,Heparin Injection,3,325.42,Dr. L. Saha,976.26
+P0665,22-07-2025,Vitamin D3 60k IU,3,378.08,Dr. L. Saha,1134.24
+P0666,09-05-2025,Captopril 25mg,1,1391.83,Dr. L. Saha,1391.83
+P0667,29-03-2025,Saline IV 500ml,5,1256.99,Dr. P. Roy,6284.95
+P0668,20-08-2024,Spironolactone 25mg,1,1807.26,Dr. M. Chakraborty,1807.26
+P0669,13-08-2025,Budesonide Nasal Spray,2,1447.94,Dr. K. Dutta,2895.88
+P0670,10-12-2024,Warfarin 5mg,1,106.51,Dr. T. Sen,106.51
+P0671,11-12-2024,Insulin (long),3,741.31,Dr. B. Chatterjee,2223.93
+P0672,17-03-2024,Captopril 25mg,1,1444.78,Dr. K. Dutta,1444.78
+P0673,04-01-2024,Losartan 50mg,5,1939.79,Dr. A. Mukherjee,9698.95
+P0674,06-01-2025,Clopidogrel 75mg,4,1228.98,Dr. S. Banerjee,4915.92
+P0675,30-11-2024,Cetirizine-D,1,1509.73,Dr. M. Chakraborty,1509.73
+P0676,12-08-2025,Captopril 25mg,5,1571.92,Dr. T. Sen,7859.6
+P0677,08-07-2024,Insulin (short),5,483.33,Dr. R. Das,2416.65
+P0678,10-04-2025,Salbutamol Inhaler,3,493.55,Dr. T. Sen,1480.65
+P0679,16-07-2025,Eye Drops (Antibiotic),5,1931.88,Dr. P. Roy,9659.4
+P0680,01-08-2024,Prednisone 10mg,5,1573.05,Dr. B. Chatterjee,7865.25
+P0681,13-09-2024,Lorazepam 1mg,5,1809.87,Dr. P. Roy,9049.35
+P0682,05-02-2025,Mupirocin Ointment,5,404.15,Dr. B. Chatterjee,2020.75
+P0683,14-11-2024,Eye Drops (Antibiotic),2,1363.05,Dr. A. Mukherjee,2726.1
+P0684,10-04-2024,Salbutamol Inhaler,2,1149.43,Dr. T. Sen,2298.86
+P0685,17-05-2024,Prednisone 10mg,3,892.38,Dr. N. Ghosh,2677.14
+P0686,03-06-2025,Captopril 25mg,1,1543.49,Dr. K. Dutta,1543.49
+P0687,30-04-2024,Cefixime 200mg,5,1560.69,Dr. B. Chatterjee,7803.45
+P0688,22-04-2024,Levothyroxine 50mcg,1,1015.76,Dr. K. Dutta,1015.76
+P0689,12-05-2025,Clarithromycin 250mg,1,848.95,Dr. N. Ghosh,848.95
+P0690,14-06-2025,Salbutamol Inhaler,3,340.88,Dr. L. Saha,1022.64
+P0691,13-06-2025,Prednisone 10mg,5,415.4,Dr. B. Chatterjee,2077
+P0692,02-08-2025,Calcium Carbonate 500mg,5,1217.23,Dr. N. Ghosh,6086.15
+P0693,10-09-2025,Vitamin D3 60k IU,4,1748.54,Dr. T. Sen,6994.16
+P0694,13-10-2024,Fluconazole 150mg,1,123.32,Dr. M. Chakraborty,123.32
+P0695,07-12-2024,Cetirizine 10mg,1,971.57,Dr. R. Das,971.57
+P0696,29-06-2024,Metformin 500mg,2,755,Dr. A. Mukherjee,1510
+P0697,11-02-2024,Amlodipine 5mg,4,1869.9,Dr. N. Ghosh,7479.6
+P0698,02-03-2024,Omeprazole 20mg,2,1428.57,Dr. L. Saha,2857.14
+P0699,27-03-2025,Naproxen 250mg,2,1041.5,Dr. P. Roy,2083
+P0700,30-10-2024,Co-trimoxazole 480mg,2,266.86,Dr. A. Mukherjee,533.72
+P0701,24-07-2024,Amlodipine 5mg,3,186.07,Dr. M. Chakraborty,558.21
+P0702,20-03-2024,Levothyroxine 50mcg,3,337.42,Dr. A. Mukherjee,1012.26
+P0703,11-02-2025,Ranitidine 150mg,2,909.65,Dr. K. Dutta,1819.3
+P0704,03-03-2024,Cefixime 200mg,4,1036.44,Dr. B. Chatterjee,4145.76
+P0705,20-01-2025,Hydrochlorothiazide 25mg,1,1665.47,Dr. N. Ghosh,1665.47
+P0706,13-07-2025,Hydrochlorothiazide 25mg,4,201.59,Dr. L. Saha,806.36
+P0707,16-07-2024,Calcium Carbonate 500mg,5,1822.8,Dr. P. Roy,9114
+P0708,07-10-2024,Fluconazole 150mg,3,1637.07,Dr. R. Das,4911.21
+P0709,18-01-2025,Probiotic Sachet,1,1771.57,Dr. S. Banerjee,1771.57
+P0710,09-07-2024,Hydrochlorothiazide 25mg,1,1862.33,Dr. P. Roy,1862.33
+P0711,29-12-2024,Azithromycin 250mg,5,841.5,Dr. P. Roy,4207.5
+P0712,17-12-2024,Ranitidine 150mg,5,804.98,Dr. M. Chakraborty,4024.9
+P0713,14-08-2024,Hydrochlorothiazide 25mg,2,760.44,Dr. B. Chatterjee,1520.88
+P0714,15-07-2024,Naproxen 250mg,3,784.61,Dr. A. Mukherjee,2353.83
+P0715,23-09-2024,Nitroglycerin Spray,3,181.58,Dr. P. Roy,544.74
+P0716,04-01-2024,Co-trimoxazole 480mg,4,464.59,Dr. L. Saha,1858.36
+P0717,02-06-2024,Ibuprofen 400mg,2,651,Dr. T. Sen,1302
+P0718,17-05-2024,Erythromycin 250mg,2,216.18,Dr. N. Ghosh,432.36
+P0719,05-04-2025,Naproxen 250mg,2,1435.11,Dr. R. Das,2870.22
+P0720,28-09-2024,Cetirizine-D,2,683.87,Dr. R. Das,1367.74
+P0721,06-06-2025,Paracetamol 500mg,3,309.18,Dr. P. Roy,927.54
+P0722,24-03-2024,Multivitamin Tablet,3,95.84,Dr. L. Saha,287.52
+P0723,31-03-2025,Doxycycline 100mg,2,1836.44,Dr. N. Ghosh,3672.88
+P0724,30-06-2025,Naproxen 250mg,4,955.46,Dr. N. Ghosh,3821.84
+P0725,14-10-2024,Hydrochlorothiazide 25mg,1,1665.6,Dr. L. Saha,1665.6
+P0726,11-08-2024,Fluconazole 150mg,1,1522.51,Dr. A. Mukherjee,1522.51
+P0727,09-07-2024,Clopidogrel 75mg,4,948.84,Dr. N. Ghosh,3795.36
+P0728,09-12-2024,Clopidogrel 75mg,2,1238.39,Dr. L. Saha,2476.78
+P0729,19-04-2024,Fluconazole 150mg,3,1813.6,Dr. L. Saha,5440.8
+P0730,12-01-2025,Heparin Injection,1,57.63,Dr. R. Das,57.63
+P0731,07-06-2025,Omeprazole 20mg,5,447,Dr. L. Saha,2235
+P0732,18-06-2025,Mupirocin Ointment,5,316.05,Dr. P. Roy,1580.25
+P0733,28-03-2024,Omeprazole 20mg,4,1881.65,Dr. K. Dutta,7526.6
+P0734,01-12-2024,Prednisone 10mg,2,1225.58,Dr. B. Chatterjee,2451.16
+P0735,12-06-2024,Warfarin 5mg,1,858.04,Dr. M. Chakraborty,858.04
+P0736,05-07-2025,Mupirocin Ointment,2,1556.82,Dr. R. Das,3113.64
+P0737,17-02-2024,Ibuprofen 400mg,1,490.53,Dr. K. Dutta,490.53
+P0738,16-02-2024,Naproxen 250mg,4,261.26,Dr. A. Mukherjee,1045.04
+P0739,12-01-2024,Calcium Carbonate 500mg,4,492.11,Dr. S. Banerjee,1968.44
+P0740,11-11-2024,Topical Antifungal Cream,5,1285.12,Dr. A. Mukherjee,6425.6
+P0741,20-01-2024,Aspirin 75mg,2,1253.16,Dr. P. Roy,2506.32
+P0742,27-12-2024,Fexofenadine 120mg,5,144.36,Dr. L. Saha,721.8
+P0743,08-09-2024,Spironolactone 25mg,2,1676.64,Dr. P. Roy,3353.28
+P0744,02-01-2025,Losartan 50mg,5,1009.66,Dr. A. Mukherjee,5048.3
+P0745,17-07-2025,Probiotic Sachet,3,1081.39,Dr. B. Chatterjee,3244.17
+P0746,09-12-2024,Metformin 500mg,3,1271.27,Dr. K. Dutta,3813.81
+P0747,04-12-2024,Saline IV 500ml,3,1158.59,Dr. A. Mukherjee,3475.77
+P0748,13-09-2025,Fluconazole 150mg,3,1442.72,Dr. N. Ghosh,4328.16
+P0749,20-10-2024,Ibuprofen 400mg,1,596.72,Dr. L. Saha,596.72
+P0750,27-04-2025,Fexofenadine 120mg,3,23.1,Dr. P. Roy,69.3
+P0751,15-08-2024,Nitroglycerin Spray,4,718.58,Dr. R. Das,2874.32
+P0752,18-05-2024,Erythromycin 250mg,4,1149.91,Dr. N. Ghosh,4599.64
+P0753,25-04-2025,Topical Antifungal Cream,1,390.88,Dr. R. Das,390.88
+P0754,01-04-2025,Ibuprofen 400mg,3,1343.07,Dr. N. Ghosh,4029.21
+P0755,30-06-2024,Cetirizine 10mg,3,1056.5,Dr. A. Mukherjee,3169.5
+P0756,16-10-2024,Ear Drops (Antibiotic),3,734,Dr. A. Mukherjee,2202
+P0757,13-11-2024,Warfarin 5mg,5,1907.74,Dr. R. Das,9538.7
+P0758,03-09-2024,Metformin 500mg,2,1097.28,Dr. L. Saha,2194.56
+P0759,08-11-2024,Probiotic Sachet,5,1577.1,Dr. R. Das,7885.5
+P0760,16-02-2025,Atorvastatin 10mg,2,1025.09,Dr. S. Banerjee,2050.18
+P0761,11-06-2025,Azithromycin 250mg,3,60.26,Dr. B. Chatterjee,180.78
+P0762,16-05-2025,Insulin (short),3,1749.2,Dr. N. Ghosh,5247.6
+P0763,16-01-2025,Naproxen 250mg,5,106.2,Dr. S. Banerjee,531
+P0764,13-04-2024,Vitamin D3 60k IU,5,786.03,Dr. N. Ghosh,3930.15
+P0765,15-11-2024,Ranitidine 150mg,2,759.14,Dr. T. Sen,1518.28
+P0766,04-10-2024,Probiotic Sachet,4,1499.69,Dr. L. Saha,5998.76
+P0767,21-04-2024,Vitamin D3 60k IU,2,727.05,Dr. S. Banerjee,1454.1
+P0768,13-08-2025,Calcium Carbonate 500mg,5,153.77,Dr. N. Ghosh,768.85
+P0769,14-02-2025,Naproxen 250mg,5,497.43,Dr. M. Chakraborty,2487.15
+P0770,24-08-2025,Prednisone 10mg,1,1321.07,Dr. N. Ghosh,1321.07
+P0771,02-04-2025,Hydrochlorothiazide 25mg,5,225.25,Dr. R. Das,1126.25
+P0772,27-10-2024,Insulin (short),1,1172.17,Dr. R. Das,1172.17
+P0773,11-08-2024,Cetirizine 10mg,4,1518.22,Dr. T. Sen,6072.88
+P0774,16-05-2024,Cetirizine-D,2,284.15,Dr. K. Dutta,568.3
+P0775,30-10-2024,Ibuprofen 400mg,2,717.55,Dr. N. Ghosh,1435.1
+P0776,09-02-2024,Clopidogrel 75mg,1,690.32,Dr. R. Das,690.32
+P0777,17-08-2024,Fluconazole 150mg,2,1292.74,Dr. B. Chatterjee,2585.48
+P0778,27-01-2024,Azithromycin 250mg,5,1664.16,Dr. L. Saha,8320.8
+P0779,08-05-2024,Multivitamin Tablet,3,1375.67,Dr. N. Ghosh,4127.01
+P0780,18-07-2025,Omeprazole 20mg,1,1962.02,Dr. P. Roy,1962.02
+P0781,12-08-2024,Ear Drops (Antibiotic),2,967.49,Dr. L. Saha,1934.98
+P0782,19-10-2024,Cefixime 200mg,1,380.91,Dr. R. Das,380.91
+P0783,09-10-2024,Ear Drops (Antibiotic),1,287.01,Dr. T. Sen,287.01
+P0784,29-01-2024,Amoxicillin 500mg,3,1437.77,Dr. M. Chakraborty,4313.31
+P0785,01-09-2025,Ibuprofen 400mg,5,1888.34,Dr. M. Chakraborty,9441.7
+P0786,20-07-2024,Salbutamol Inhaler,1,93.23,Dr. R. Das,93.23
+P0787,13-03-2025,Levocetirizine 5mg,2,419.15,Dr. R. Das,838.3
+P0788,20-11-2024,Ibuprofen 400mg,4,1586.4,Dr. A. Mukherjee,6345.6
+P0789,31-05-2025,Saline IV 500ml,1,1773.86,Dr. L. Saha,1773.86
+P0790,03-06-2025,Amlodipine 5mg,1,644.88,Dr. T. Sen,644.88
+P0791,12-06-2024,Salbutamol Inhaler,3,633.95,Dr. L. Saha,1901.85
+P0792,04-12-2024,Metformin 500mg,5,808.48,Dr. A. Mukherjee,4042.4
+P0793,18-04-2024,Cetirizine-D,4,1634.5,Dr. R. Das,6538
+P0794,10-02-2025,Topical Antifungal Cream,2,957.33,Dr. L. Saha,1914.66
+P0795,15-08-2024,Pantoprazole 40mg,4,92.51,Dr. N. Ghosh,370.04
+P0796,10-02-2025,Erythromycin 250mg,2,1300.86,Dr. L. Saha,2601.72
+P0797,03-06-2025,Ranitidine 150mg,5,586.5,Dr. P. Roy,2932.5
+P0798,17-11-2024,Probiotic Sachet,2,1727.03,Dr. L. Saha,3454.06
+P0799,22-08-2024,Co-trimoxazole 480mg,3,114.65,Dr. S. Banerjee,343.95
+P0800,18-07-2025,Insulin (short),3,1318.35,Dr. K. Dutta,3955.05
+P0801,17-11-2024,Diclofenac 50mg,3,560.97,Dr. R. Das,1682.91
+P0802,07-08-2024,Losartan 50mg,3,1602.7,Dr. N. Ghosh,4808.1
+P0803,23-06-2025,Heparin Injection,4,885.16,Dr. S. Banerjee,3540.64
+P0804,29-10-2024,Heparin Injection,5,812.04,Dr. P. Roy,4060.2
+P0805,26-10-2024,Clopidogrel 75mg,2,890.68,Dr. N. Ghosh,1781.36
+P0806,10-01-2025,Levothyroxine 50mcg,2,1913.83,Dr. N. Ghosh,3827.66
+P0807,08-11-2024,Pantoprazole 40mg,3,691.29,Dr. R. Das,2073.87
+P0808,27-03-2024,Losartan 50mg,3,389.9,Dr. S. Banerjee,1169.7
+P0809,13-04-2024,Doxycycline 100mg,1,1390.3,Dr. N. Ghosh,1390.3
+P0810,17-02-2024,Loperamide 2mg,5,747.35,Dr. K. Dutta,3736.75
+P0811,04-02-2025,Nitroglycerin Spray,4,1598.64,Dr. A. Mukherjee,6394.56
+P0812,11-05-2024,Ibuprofen 400mg,2,548.11,Dr. M. Chakraborty,1096.22
+P0813,26-04-2024,Doxycycline 100mg,1,183.57,Dr. P. Roy,183.57
+P0814,13-08-2024,Erythromycin 250mg,1,860.51,Dr. P. Roy,860.51
+P0815,22-03-2025,Aspirin 75mg,2,872.6,Dr. S. Banerjee,1745.2
+P0816,14-03-2024,Naproxen 250mg,4,1990.29,Dr. N. Ghosh,7961.16
+P0817,23-05-2024,Fexofenadine 120mg,1,377.3,Dr. M. Chakraborty,377.3
+P0818,19-05-2025,Levothyroxine 50mcg,1,601.66,Dr. S. Banerjee,601.66
+P0819,23-03-2025,Levocetirizine 5mg,5,223.14,Dr. A. Mukherjee,1115.7
+P0820,26-10-2024,Cefixime 200mg,4,669.28,Dr. A. Mukherjee,2677.12
+P0821,24-10-2024,Nitroglycerin Spray,1,605.37,Dr. T. Sen,605.37
+P0822,11-05-2024,Co-trimoxazole 480mg,4,902.91,Dr. K. Dutta,3611.64
+P0823,10-04-2024,Eye Drops (Antibiotic),2,1440.97,Dr. T. Sen,2881.94
+P0824,02-06-2025,Salbutamol Inhaler,3,349.96,Dr. R. Das,1049.88
+P0825,14-01-2024,Loperamide 2mg,1,898.94,Dr. T. Sen,898.94
+P0826,27-01-2024,Co-trimoxazole 480mg,5,905.32,Dr. K. Dutta,4526.6
+P0827,22-12-2024,Doxycycline 100mg,2,1459.09,Dr. T. Sen,2918.18
+P0828,10-04-2024,Aspirin 75mg,4,1824.98,Dr. N. Ghosh,7299.92
+P0829,26-01-2025,Heparin Injection,2,1237.41,Dr. B. Chatterjee,2474.82
+P0830,25-01-2024,Pantoprazole 40mg,1,881.18,Dr. T. Sen,881.18
+P0831,21-12-2024,Erythromycin 250mg,4,1286.15,Dr. S. Banerjee,5144.6
+P0832,04-02-2024,Amoxicillin 500mg,3,1587.13,Dr. K. Dutta,4761.39
+P0833,09-06-2024,Multivitamin Tablet,2,133.57,Dr. L. Saha,267.14
+P0834,21-04-2024,Fluconazole 150mg,1,1348.94,Dr. P. Roy,1348.94
+P0835,19-08-2025,Warfarin 5mg,5,824.3,Dr. R. Das,4121.5
+P0836,07-01-2025,Topical Antifungal Cream,4,1035.91,Dr. K. Dutta,4143.64
+P0837,16-12-2024,Diclofenac 50mg,2,1504.8,Dr. S. Banerjee,3009.6
+P0838,12-01-2024,Cefixime 200mg,2,336.77,Dr. A. Mukherjee,673.54
+P0839,23-03-2025,Budesonide Nasal Spray,3,81.66,Dr. M. Chakraborty,244.98
+P0840,15-02-2025,Ear Drops (Antibiotic),3,1700.37,Dr. A. Mukherjee,5101.11
+P0841,25-06-2024,Calcium Carbonate 500mg,5,1362.62,Dr. N. Ghosh,6813.1
+P0842,23-02-2024,Paracetamol 500mg,5,887.58,Dr. M. Chakraborty,4437.9
+P0843,06-10-2024,Hydrochlorothiazide 25mg,1,269.94,Dr. S. Banerjee,269.94
+P0844,09-09-2025,Mupirocin Ointment,1,487.27,Dr. S. Banerjee,487.27
+P0845,23-06-2025,Loperamide 2mg,5,1297.42,Dr. N. Ghosh,6487.1
+P0846,16-04-2024,Warfarin 5mg,5,737.06,Dr. R. Das,3685.3
+P0847,31-05-2025,Diclofenac 50mg,4,1899.94,Dr. T. Sen,7599.76
+P0848,08-01-2025,Eye Drops (Antibiotic),3,84.12,Dr. R. Das,252.36
+P0849,09-05-2025,Probiotic Sachet,1,323.81,Dr. S. Banerjee,323.81
+P0850,25-05-2025,Levothyroxine 50mcg,3,910.85,Dr. B. Chatterjee,2732.55
+P0851,23-04-2024,Amlodipine 5mg,3,754.51,Dr. S. Banerjee,2263.53
+P0852,14-02-2025,Warfarin 5mg,5,899,Dr. N. Ghosh,4495
+P0853,13-06-2024,Atorvastatin 10mg,4,172.23,Dr. L. Saha,688.92
+P0854,26-03-2025,Spironolactone 25mg,2,292.64,Dr. L. Saha,585.28
+P0855,01-08-2024,Lorazepam 1mg,4,746.56,Dr. K. Dutta,2986.24
+P0856,09-10-2024,Ear Drops (Antibiotic),4,642.48,Dr. A. Mukherjee,2569.92
+P0857,02-01-2025,Prednisone 10mg,3,571.81,Dr. T. Sen,1715.43
+P0858,22-05-2024,Saline IV 500ml,4,1921.83,Dr. R. Das,7687.32
+P0859,27-08-2024,Fluconazole 150mg,1,71.31,Dr. L. Saha,71.31
+P0860,08-03-2024,Cetirizine-D,3,388.38,Dr. T. Sen,1165.14
+P0861,05-05-2024,Probiotic Sachet,1,1045.14,Dr. R. Das,1045.14
+P0862,18-06-2025,Warfarin 5mg,2,1828.81,Dr. A. Mukherjee,3657.62
+P0863,09-11-2024,Spironolactone 25mg,3,253.17,Dr. S. Banerjee,759.51
+P0864,18-09-2024,Nitroglycerin Spray,2,1554.43,Dr. N. Ghosh,3108.86
+P0865,03-04-2024,Prednisone 10mg,3,1413.99,Dr. P. Roy,4241.97
+P0866,29-02-2024,Vitamin D3 60k IU,5,444.85,Dr. P. Roy,2224.25
+P0867,22-10-2024,Salbutamol Inhaler,4,1231.52,Dr. T. Sen,4926.08
+P0868,17-01-2025,Cetirizine 10mg,5,1394.08,Dr. B. Chatterjee,6970.4
+P0869,25-01-2024,Prednisone 10mg,2,1997.29,Dr. B. Chatterjee,3994.58
+P0870,02-05-2025,Captopril 25mg,4,416.35,Dr. M. Chakraborty,1665.4
+P0871,09-11-2024,Salbutamol Inhaler,3,288.74,Dr. M. Chakraborty,866.22
+P0872,14-03-2024,Probiotic Sachet,4,166.62,Dr. M. Chakraborty,666.48
+P0873,26-10-2024,Erythromycin 250mg,1,361.86,Dr. P. Roy,361.86
+P0874,22-03-2024,Saline IV 500ml,4,1432.47,Dr. S. Banerjee,5729.88
+P0875,10-01-2025,Topical Antifungal Cream,1,1994.58,Dr. A. Mukherjee,1994.58
+P0876,29-05-2025,Naproxen 250mg,4,1624.82,Dr. T. Sen,6499.28
+P0877,11-07-2025,Calcium Carbonate 500mg,1,1935.77,Dr. L. Saha,1935.77
+P0878,26-04-2025,Ibuprofen 400mg,2,1973.42,Dr. B. Chatterjee,3946.84
+P0879,07-02-2025,Mupirocin Ointment,5,1342.32,Dr. K. Dutta,6711.6
+P0880,20-11-2024,Vitamin D3 60k IU,3,1424.89,Dr. R. Das,4274.67
+P0881,18-08-2024,Atorvastatin 10mg,4,1108.99,Dr. A. Mukherjee,4435.96
+P0882,28-01-2024,Mupirocin Ointment,5,594.92,Dr. N. Ghosh,2974.6
+P0883,25-11-2024,Ranitidine 150mg,3,613.91,Dr. A. Mukherjee,1841.73
+P0884,22-05-2024,Multivitamin Tablet,3,331.86,Dr. T. Sen,995.58
+P0885,14-05-2025,Insulin (short),1,1424.94,Dr. S. Banerjee,1424.94
+P0886,06-05-2025,Calcium Carbonate 500mg,2,1406.43,Dr. M. Chakraborty,2812.86
+P0887,25-08-2024,Prednisone 10mg,2,364.7,Dr. L. Saha,729.4
+P0888,01-01-2025,Heparin Injection,5,735.75,Dr. K. Dutta,3678.75
+P0889,06-04-2025,Co-trimoxazole 480mg,2,464,Dr. P. Roy,928
+P0890,18-04-2025,Prednisone 10mg,4,1970.56,Dr. S. Banerjee,7882.24
+P0891,09-03-2025,Insulin (long),2,1588.29,Dr. A. Mukherjee,3176.58
+P0892,01-03-2024,Paracetamol 500mg,5,488.74,Dr. P. Roy,2443.7
+P0893,24-03-2024,Lorazepam 1mg,2,998.16,Dr. R. Das,1996.32
+P0894,23-10-2024,Levocetirizine 5mg,4,734.58,Dr. M. Chakraborty,2938.32
+P0895,24-05-2024,Cetirizine 10mg,1,1153.11,Dr. S. Banerjee,1153.11
+P0896,18-06-2025,Salbutamol Inhaler,5,945.46,Dr. K. Dutta,4727.3
+P0897,25-06-2024,Spironolactone 25mg,1,1966.36,Dr. S. Banerjee,1966.36
+P0898,29-06-2025,Hydrochlorothiazide 25mg,1,276.95,Dr. M. Chakraborty,276.95
+P0899,11-09-2024,Mupirocin Ointment,1,1770.81,Dr. T. Sen,1770.81
+P0900,27-04-2024,Insulin (long),3,150.18,Dr. K. Dutta,450.54
+P0901,17-03-2025,Salbutamol Inhaler,3,808.36,Dr. K. Dutta,2425.08
+P0902,06-05-2025,Co-trimoxazole 480mg,1,1439.53,Dr. M. Chakraborty,1439.53
+P0903,25-12-2024,Cetirizine-D,5,967.76,Dr. S. Banerjee,4838.8
+P0904,14-03-2024,Ear Drops (Antibiotic),4,833.37,Dr. B. Chatterjee,3333.48
+P0905,05-01-2024,Levothyroxine 50mcg,4,830.68,Dr. T. Sen,3322.72
+P0906,11-02-2025,Mupirocin Ointment,2,1158.3,Dr. R. Das,2316.6
+P0907,03-03-2025,Captopril 25mg,5,268.15,Dr. N. Ghosh,1340.75
+P0908,15-07-2024,Ibuprofen 400mg,3,647.71,Dr. T. Sen,1943.13
+P0909,13-08-2024,Cetirizine 10mg,1,166.85,Dr. N. Ghosh,166.85
+P0910,06-04-2024,Clarithromycin 250mg,2,942.35,Dr. R. Das,1884.7
+P0911,09-02-2025,Omeprazole 20mg,4,1044.37,Dr. K. Dutta,4177.48
+P0912,06-06-2024,Fexofenadine 120mg,3,274.1,Dr. A. Mukherjee,822.3
+P0913,15-06-2025,Co-trimoxazole 480mg,3,1661.53,Dr. M. Chakraborty,4984.59
+P0914,20-09-2024,Salbutamol Inhaler,1,1111.58,Dr. K. Dutta,1111.58
+P0915,15-08-2024,Doxycycline 100mg,4,1183.82,Dr. K. Dutta,4735.28
+P0916,20-06-2024,Topical Antifungal Cream,5,1540.21,Dr. M. Chakraborty,7701.05
+P0917,27-02-2025,Nitroglycerin Spray,3,275.49,Dr. P. Roy,826.47
+P0918,14-04-2025,Diclofenac 50mg,1,1015.67,Dr. M. Chakraborty,1015.67
+P0919,14-09-2024,Cetirizine-D,5,1739.06,Dr. L. Saha,8695.3
+P0920,02-05-2025,Insulin (long),4,1666.15,Dr. A. Mukherjee,6664.6
+P0921,27-10-2024,Lorazepam 1mg,3,1045.84,Dr. R. Das,3137.52
+P0922,18-08-2024,Multivitamin Tablet,5,622.17,Dr. S. Banerjee,3110.85
+P0923,11-12-2024,Warfarin 5mg,5,340.69,Dr. S. Banerjee,1703.45
+P0924,06-06-2024,Clopidogrel 75mg,5,1870.78,Dr. N. Ghosh,9353.9
+P0925,09-07-2024,Insulin (long),3,466.43,Dr. B. Chatterjee,1399.29
+P0926,02-08-2024,Calcium Carbonate 500mg,3,1896.02,Dr. T. Sen,5688.06
+P0927,14-03-2025,Multivitamin Tablet,2,1047.42,Dr. L. Saha,2094.84
+P0928,02-04-2025,Co-trimoxazole 480mg,4,582.42,Dr. P. Roy,2329.68
+P0929,15-06-2025,Probiotic Sachet,1,176.14,Dr. B. Chatterjee,176.14
+P0930,14-02-2025,Prednisone 10mg,5,408.68,Dr. A. Mukherjee,2043.4
+P0931,10-04-2025,Doxycycline 100mg,2,1913.58,Dr. T. Sen,3827.16
+P0932,04-10-2024,Insulin (short),1,563.41,Dr. B. Chatterjee,563.41
+P0933,10-03-2025,Omeprazole 20mg,2,1257.54,Dr. T. Sen,2515.08
+P0934,10-04-2024,Pantoprazole 40mg,3,1236.57,Dr. B. Chatterjee,3709.71
+P0935,13-05-2024,Spironolactone 25mg,5,204.99,Dr. K. Dutta,1024.95
+P0936,06-09-2024,Levocetirizine 5mg,1,1289.16,Dr. L. Saha,1289.16
+P0937,29-07-2024,Vitamin D3 60k IU,1,1191.78,Dr. P. Roy,1191.78
+P0938,08-12-2024,Pantoprazole 40mg,1,1169.68,Dr. K. Dutta,1169.68
+P0939,09-03-2025,Clopidogrel 75mg,1,358.98,Dr. M. Chakraborty,358.98
+P0940,15-03-2025,Fluconazole 150mg,1,1256.47,Dr. S. Banerjee,1256.47
+P0941,09-04-2024,Co-trimoxazole 480mg,2,1805.96,Dr. T. Sen,3611.92
+P0942,22-08-2025,Atorvastatin 10mg,5,688.49,Dr. A. Mukherjee,3442.45
+P0943,04-01-2024,Levocetirizine 5mg,3,1849.38,Dr. B. Chatterjee,5548.14
+P0944,26-02-2024,Ranitidine 150mg,3,101.56,Dr. L. Saha,304.68
+P0945,31-03-2024,Clopidogrel 75mg,3,1730.29,Dr. B. Chatterjee,5190.87
+P0946,29-07-2025,Cetirizine-D,3,180.82,Dr. L. Saha,542.46
+P0947,27-09-2024,Prednisone 10mg,2,1898.12,Dr. L. Saha,3796.24
+P0948,09-02-2024,Spironolactone 25mg,4,1546.62,Dr. R. Das,6186.48
+P0949,17-05-2024,Nitroglycerin Spray,5,544.02,Dr. S. Banerjee,2720.1
+P0950,19-02-2024,Lorazepam 1mg,1,437.4,Dr. K. Dutta,437.4
+P0951,24-01-2024,Heparin Injection,4,1152.83,Dr. R. Das,4611.32
+P0952,27-08-2024,Clarithromycin 250mg,3,1243.85,Dr. R. Das,3731.55
+P0953,04-09-2025,Loperamide 2mg,4,79.97,Dr. P. Roy,319.88
+P0954,16-01-2025,Levocetirizine 5mg,5,1780.21,Dr. P. Roy,8901.05
+P0955,20-11-2024,Clarithromycin 250mg,1,1100.24,Dr. R. Das,1100.24
+P0956,18-03-2025,Omeprazole 20mg,1,1290.98,Dr. A. Mukherjee,1290.98
+P0957,06-01-2025,Diclofenac 50mg,5,618.15,Dr. T. Sen,3090.75
+P0958,11-08-2025,Atorvastatin 10mg,5,504.86,Dr. S. Banerjee,2524.3
+P0959,25-05-2025,Doxycycline 100mg,3,1618.55,Dr. T. Sen,4855.65
+P0960,02-02-2025,Paracetamol 500mg,1,824.06,Dr. P. Roy,824.06
+P0961,30-09-2024,Levothyroxine 50mcg,4,918.02,Dr. R. Das,3672.08
+P0962,05-05-2024,Fluconazole 150mg,2,1383.45,Dr. L. Saha,2766.9
+P0963,12-02-2025,Metformin 500mg,2,333,Dr. M. Chakraborty,666
+P0964,15-05-2025,Prednisone 10mg,5,842.93,Dr. N. Ghosh,4214.65
+P0965,26-06-2024,Amoxicillin 500mg,3,939.6,Dr. S. Banerjee,2818.8
+P0966,21-01-2024,Azithromycin 250mg,2,693.58,Dr. S. Banerjee,1387.16
+P0967,07-01-2025,Insulin (long),1,304.46,Dr. T. Sen,304.46
+P0968,16-11-2024,Clarithromycin 250mg,5,1725.74,Dr. B. Chatterjee,8628.7
+P0969,24-05-2024,Co-trimoxazole 480mg,4,652.25,Dr. T. Sen,2609
+P0970,15-04-2024,Metformin 500mg,5,1976.29,Dr. B. Chatterjee,9881.45
+P0971,23-01-2024,Eye Drops (Antibiotic),4,703.83,Dr. N. Ghosh,2815.32
+P0972,28-05-2024,Mupirocin Ointment,5,809.46,Dr. M. Chakraborty,4047.3
+P0973,01-01-2024,Loperamide 2mg,5,1526.12,Dr. B. Chatterjee,7630.6
+P0974,07-04-2024,Paracetamol 500mg,5,1039.66,Dr. K. Dutta,5198.3
+P0975,12-09-2025,Erythromycin 250mg,4,230.24,Dr. A. Mukherjee,920.96
+P0976,29-04-2025,Clarithromycin 250mg,4,498.64,Dr. L. Saha,1994.56
+P0977,07-08-2024,Cetirizine-D,5,262.59,Dr. L. Saha,1312.95
+P0978,02-09-2024,Cetirizine-D,2,910.2,Dr. B. Chatterjee,1820.4
+P0979,30-12-2024,Captopril 25mg,3,298.94,Dr. T. Sen,896.82
+P0980,18-11-2024,Calcium Carbonate 500mg,3,120.2,Dr. S. Banerjee,360.6
+P0981,03-04-2025,Atorvastatin 10mg,3,1891.86,Dr. T. Sen,5675.58
+P0982,12-02-2024,Azithromycin 250mg,4,1731.04,Dr. R. Das,6924.16
+P0983,26-02-2024,Insulin (short),4,847.91,Dr. R. Das,3391.64
+P0984,25-06-2024,Cetirizine-D,2,1926.12,Dr. L. Saha,3852.24
+P0985,31-05-2025,Pantoprazole 40mg,3,1806.58,Dr. L. Saha,5419.74
+P0986,23-07-2025,Cefixime 200mg,3,1630.69,Dr. L. Saha,4892.07
+P0987,04-08-2024,Fexofenadine 120mg,5,1868.83,Dr. S. Banerjee,9344.15
+P0988,22-08-2025,Mupirocin Ointment,4,1447.83,Dr. S. Banerjee,5791.32
+P0989,20-06-2024,Cefixime 200mg,3,395.87,Dr. L. Saha,1187.61
+P0990,12-01-2025,Erythromycin 250mg,2,335.5,Dr. S. Banerjee,671
+P0991,30-04-2024,Eye Drops (Antibiotic),2,1992.02,Dr. M. Chakraborty,3984.04
+P0992,01-08-2025,Aspirin 75mg,3,944.29,Dr. B. Chatterjee,2832.87
+P0993,23-12-2024,Azithromycin 250mg,4,1760.57,Dr. N. Ghosh,7042.28
+P0994,11-06-2024,Amlodipine 5mg,2,1004.79,Dr. T. Sen,2009.58
+P0995,10-09-2024,Amlodipine 5mg,5,198.3,Dr. M. Chakraborty,991.5
+P0996,07-03-2024,Erythromycin 250mg,2,798.62,Dr. T. Sen,1597.24
+P0997,15-02-2024,Doxycycline 100mg,1,925.32,Dr. K. Dutta,925.32
+P0998,02-07-2024,Cetirizine 10mg,1,496.64,Dr. L. Saha,496.64
+P0999,12-08-2025,Salbutamol Inhaler,4,1175.02,Dr. L. Saha,4700.08
+P1000,14-05-2025,Pantoprazole 40mg,3,116.34,Dr. K. Dutta,349.02
